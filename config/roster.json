@@ -1,0 +1,32 @@
+{
+  "team_name": "Coach K",
+  "yahoo_league": "106275",
+
+  "roster": [
+    {"name": "Ja Morant",              "nba_team": "POR"},
+    {"name": "Keon Ellis",             "nba_team": "BKN"},
+    {"name": "Quenton Jackson",        "nba_team": "IND"},
+    {"name": "Jaylen Wells",           "nba_team": "MEM"},
+    {"name": "Karl-Anthony Towns",     "nba_team": "NYK"},
+    {"name": "Peyton Watson",          "nba_team": "CLE"},
+    {"name": "Walker Kessler",         "nba_team": "LAL"},
+    {"name": "Jarrett Allen",          "nba_team": "CLE"},
+    {"name": "DeMar DeRozan",          "nba_team": "DEN"},
+    {"name": "Jaylin Williams",        "nba_team": "OKC"},
+    {"name": "Tyrese Haliburton",      "nba_team": "IND"},
+    {"name": "Immanuel Quickley",      "nba_team": "TOR"},
+    {"name": "Pascal Siakam",          "nba_team": "IND"},
+    {"name": "Saddiq Bey",             "nba_team": "NOP"}
+  ],
+
+  "watch": [
+    {"name": "Kentavious Caldwell-Pope", "nba_team": "PHI"},
+    {"name": "AJ Green",                 "nba_team": "MIL"},
+    {"name": "Javonte Green",            "nba_team": "DET"},
+    {"name": "Allen Graves",             "nba_team": "TOR"},
+    {"name": "Kyle Filipowski",          "nba_team": "UTA"},
+    {"name": "Nolan Traore",             "nba_team": "BKN"}
+  ],
+
+  "ignore": []
+}
