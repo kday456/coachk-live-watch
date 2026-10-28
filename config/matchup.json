@@ -1,0 +1,12 @@
+{
+  "week": 1,
+  "opponent": "",
+  "close": [],
+  "losing": [],
+  "_categories": "FGM FG% FTM FT% 3PM PTS REB AST STL BLK TO",
+
+  "yahoo": {
+    "enabled": false,
+    "league_id": "106275"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "_note": "Order = priority when two sources report the same story in one run. verified = tested on the date shown; 'actions' is filled in by state/sources_health.json after GitHub runs. Set enabled:false to mute one.",
+  "sources": [
+    {"name": "espn_injuries", "type": "espn_injuries", "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/injuries", "verified": "2026-10-27", "note": "ESPN injury table with RotoWire blurbs + timestamps"},
+    {"name": "rotowire_rss", "type": "rss_player_news", "url": "https://www.rotowire.com/rss/news.php?sport=NBA", "verified": "2026-10-27", "note": "only the newest 5 items, so poll often"},
+    {"name": "espn_news", "type": "espn_news", "url": "https://now.core.api.espn.com/v1/sports/news?sport=basketball&league=nba", "verified": "2026-10-27", "note": "ESPN headlines (Shams' scoops land here), tagged with athletes"},
+    {"name": "bsky_shams_mirror", "type": "bluesky", "handle": "shamsbot.bsky.social", "verified": "2026-10-27", "note": "unofficial bot reposting Shams Charania"},
+    {"name": "bsky_rotowire", "type": "bluesky", "handle": "rotowirenba.bsky.social", "verified": "2026-10-27"},
+    {"name": "bsky_sportsethos", "type": "bluesky", "handle": "ethosfantasynba.bsky.social", "verified": "2026-10-27", "note": "fantasy injury/lineup news"},
+    {"name": "bsky_scotto", "type": "bluesky", "handle": "mikeascotto.bsky.social", "verified": "2026-10-27", "note": "HoopsHype insider"},
+    {"name": "bsky_stein", "type": "bluesky", "handle": "thesteinline.bsky.social", "verified": "2026-10-27"},
+    {"name": "bsky_fischer", "type": "bluesky", "handle": "jakelfischer.bsky.social", "verified": "2026-10-27"},
+    {"name": "bsky_keith_smith", "type": "bluesky", "handle": "keithsmithnba.bsky.social", "verified": "2026-10-27"},
+    {"name": "bsky_hoopshype", "type": "bluesky", "handle": "hoopshypeofficial.bsky.social", "verified": "2026-10-27"},
+    {"name": "beat_ind_agness", "type": "bluesky", "handle": "scottagness.bsky.social", "team": "IND", "verified": "2026-10-27"},
+    {"name": "beat_ind_dopirak", "type": "bluesky", "handle": "dustindopirak.bsky.social", "team": "IND", "verified": "2026-10-27"},
+    {"name": "beat_tor_lewenberg", "type": "bluesky", "handle": "jlewenberg.bsky.social", "team": "TOR", "verified": "2026-10-27"},
+    {"name": "beat_cle_cunningham", "type": "bluesky", "handle": "dannycunningham.bsky.social", "team": "CLE", "verified": "2026-10-27"},
+    {"name": "beat_mem_brown", "type": "bluesky", "handle": "sharonshybrown.bsky.social", "team": "MEM", "verified": "2026-10-27"},
+    {"name": "beat_den_benedetto", "type": "bluesky", "handle": "vbenedetto.bsky.social", "team": "DEN", "verified": "2026-10-27"},
+    {"name": "beat_phi_mizell", "type": "bluesky", "handle": "ginamizell.bsky.social", "team": "PHI", "verified": "2026-10-27"},
+    {"name": "beat_phi_aaronson", "type": "bluesky", "handle": "adamaaronson.bsky.social", "team": "PHI", "verified": "2026-10-27"},
+    {"name": "beat_det_sankofa", "type": "bluesky", "handle": "omarisankofa.bsky.social", "team": "DET", "verified": "2026-10-27"},
+    {"name": "reddit_fantasybball", "type": "rss", "url": "https://www.reddit.com/r/fantasybball/new/.rss", "verified": "2026-10-27", "note": "worked from a home connection; Reddit often blocks cloud servers — check sources_health"},
+
+    {"name": "reddit_nba", "type": "rss", "url": "https://www.reddit.com/r/nba/new/.rss", "enabled": false, "verified": "no", "note": "returned empty on 2026-10-27 (rate-limited)"},
+    {"name": "beat_nyk_bondy", "type": "bluesky", "handle": "sbondynba.bsky.social", "team": "NYK", "enabled": false, "verified": "no", "note": "account inactive (last post >1 yr) as of 2026-10-27"},
+    {"name": "beat_nop_clark", "type": "bluesky", "handle": "christianclark3.bsky.social", "team": "NO", "enabled": false, "verified": "no", "note": "inactive as of 2026-10-27"},
+    {"name": "beat_den_durando", "type": "bluesky", "handle": "bennettdurando.bsky.social", "team": "DEN", "enabled": false, "verified": "no", "note": "inactive as of 2026-10-27"},
+    {"name": "bsky_haynes", "type": "bluesky", "handle": "chrisbhaynes.bsky.social", "enabled": false, "verified": "no", "note": "inactive as of 2026-10-27"}
+  ]
+}

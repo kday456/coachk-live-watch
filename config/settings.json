@@ -1,0 +1,19 @@
+{
+  "team_name": "Coach K",
+  "ntfy_title": "Coach K live",
+  "timezone": "America/Los_Angeles",
+  "vulture_after_local_hour": 17,
+  "news_max_age_minutes": 90,
+  "thresholds": {
+    "fouls": 4,
+    "stall_runs": 2,
+    "nmu_min": 20,
+    "nmu_pts": 15,
+    "big_pts": 15,
+    "big_3s": 3,
+    "big_stl": 2,
+    "big_blk": 3,
+    "breakout_min_delta": 4,
+    "selling_min_delta": 4
+  }
+}
