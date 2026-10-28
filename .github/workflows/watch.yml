@@ -1,16 +1,23 @@
-name: Coach K live watch
+name: Fantasy live watch
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/5 * * * *"   # live box scores + insider news
+    - cron: "40 6 * * *"    # nightly stock moves (2:40am ET, ahead of the 3am waiver vultures)
   workflow_dispatch:
+    inputs:
+      mode:
+        description: "watch = live + news, nightly = stock moves"
+        type: choice
+        options: [watch, nightly]
+        default: watch
 
 permissions:
   contents: write
 
-# Never let two runs fight over state/state.json.
+# Never let two runs fight over state/.
 concurrency:
-  group: coachk-live-watch
+  group: fantasy-live-watch
   cancel-in-progress: false
 
 jobs:
@@ -18,45 +25,53 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Skip outside NBA game hours (16:00–07:59 UTC)
-        id: hours
+      - name: Decide what to run
+        id: mode
         run: |
           h=$(date -u +%H)
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "$h" -ge 16 ] || [ "$h" -lt 8 ]; then
-            echo "run=true" >> "$GITHUB_OUTPUT"
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            mode="${{ inputs.mode }}"
+          elif [ "${{ github.event.schedule }}" = "40 6 * * *" ]; then
+            mode=nightly
+          elif [ "$h" -ge 13 ] || [ "$h" -lt 8 ]; then
+            mode=watch
           else
-            echo "Hour $h UTC — no NBA games, exiting."
-            echo "run=false" >> "$GITHUB_OUTPUT"
+            mode=skip
+            echo "Hour $h UTC — no games or news window, exiting."
           fi
+          echo "mode=$mode" >> "$GITHUB_OUTPUT"
 
       - uses: actions/checkout@v4
-        if: steps.hours.outputs.run == 'true'
-
-      - uses: actions/setup-python@v5
-        if: steps.hours.outputs.run == 'true'
-        with:
-          python-version: "3.12"
+        if: steps.mode.outputs.mode != 'skip'
 
       - name: Install requests
-        if: steps.hours.outputs.run == 'true'
-        run: pip install --quiet requests
+        if: steps.mode.outputs.mode != 'skip'
+        run: python3 -c "import requests" 2>/dev/null || pip install --quiet --user --break-system-packages requests
 
-      - name: Check games
-        if: steps.hours.outputs.run == 'true'
+      - name: Run
+        if: steps.mode.outputs.mode != 'skip'
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
-        run: python watch.py
+          YAHOO_CLIENT_ID: ${{ secrets.YAHOO_CLIENT_ID }}
+          YAHOO_CLIENT_SECRET: ${{ secrets.YAHOO_CLIENT_SECRET }}
+          YAHOO_REFRESH_TOKEN: ${{ secrets.YAHOO_REFRESH_TOKEN }}
+        run: |
+          if [ "${{ steps.mode.outputs.mode }}" = "nightly" ]; then
+            python3 watch.py --nightly
+          else
+            python3 watch.py
+          fi
 
       - name: Save state and alerts
-        if: steps.hours.outputs.run == 'true'
+        if: steps.mode.outputs.mode != 'skip'
         run: |
           git add state alerts
           if git diff --cached --quiet; then
             echo "Nothing changed."
             exit 0
           fi
-          git config user.name "coachk-bot"
+          git config user.name "fantasy-watch-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "watch: state $(date -u +%Y-%m-%dT%H:%MZ)"
+          git commit -q -m "watch: state $(date -u +%Y-%m-%dT%H:%MZ)"
           git pull --rebase --quiet
-          git push
+          git push --quiet
