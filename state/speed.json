@@ -1,0 +1,286 @@
+{
+ "last_weekly": null,
+ "stories": {
+  "CLE|AVAILABLE|2026-10-11|kenny-atkinson-says-that-the-regulars": {
+   "first_src": "beat_cle_cunningham",
+   "first_ts": "2026-10-12T01:17:41+00:00",
+   "seen": {
+    "beat_cle_cunningham": "2026-10-12T01:17:41+00:00"
+   }
+  },
+  "CLE|AVAILABLE|2026-10-24|source-the-#cavs-and-dazn-reached": {
+   "first_src": "beat_cle_cunningham",
+   "first_ts": "2026-10-24T14:31:22+00:00",
+   "seen": {
+    "beat_cle_cunningham": "2026-10-24T14:31:22+00:00"
+   }
+  },
+  "DET|QUESTIONABLE|2026-10-27|shootaround-just-ended-at-msg-ausars": {
+   "first_src": "beat_det_sankofa",
+   "first_ts": "2026-10-27T15:10:39+00:00",
+   "seen": {
+    "beat_det_sankofa": "2026-10-27T15:10:39+00:00"
+   }
+  },
+  "IND|AVAILABLE|2026-10-26|dazn-the-tv-partner-of-the": {
+   "first_src": "beat_ind_agness",
+   "first_ts": "2026-10-26T17:53:21+00:00",
+   "seen": {
+    "beat_ind_agness": "2026-10-26T17:53:21+00:00"
+   }
+  },
+  "IND|STARTING|2026-10-25|pacers-and-nets-underway-in-brooklyn": {
+   "first_src": "beat_ind_agness",
+   "first_ts": "2026-10-25T22:13:13+00:00",
+   "seen": {
+    "beat_ind_agness": "2026-10-25T22:13:13+00:00"
+   }
+  },
+  "TOR|OUT|2026-10-25|an-earlyseason-reality-check-kawhi-is": {
+   "first_src": "beat_tor_lewenberg",
+   "first_ts": "2026-10-26T02:11:47+00:00",
+   "seen": {
+    "beat_tor_lewenberg": "2026-10-26T02:11:47+00:00"
+   }
+  },
+  "TOR|OUT|2026-10-27|the-raptors-believed-they-would-be": {
+   "first_src": "beat_tor_lewenberg",
+   "first_ts": "2026-10-27T21:15:14+00:00",
+   "seen": {
+    "beat_tor_lewenberg": "2026-10-27T21:15:14+00:00"
+   }
+  },
+  "TOR|QUESTIONABLE|2026-10-25|more-on-rj-barretts-contractual-situation": {
+   "first_src": "beat_tor_lewenberg",
+   "first_ts": "2026-10-25T23:08:42+00:00",
+   "seen": {
+    "beat_tor_lewenberg": "2026-10-25T23:08:42+00:00"
+   }
+  },
+  "TOR|STARTING|2026-10-23|kawhi-to-start-the-season-1236": {
+   "first_src": "beat_tor_lewenberg",
+   "first_ts": "2026-10-24T01:45:00+00:00",
+   "seen": {
+    "beat_tor_lewenberg": "2026-10-24T01:45:00+00:00"
+   }
+  },
+  "adem bona|STARTING|2026-10-25": {
+   "first_src": "beat_phi_aaronson",
+   "first_ts": "2026-10-26T00:03:33+00:00",
+   "seen": {
+    "beat_phi_aaronson": "2026-10-26T00:03:33+00:00"
+   }
+  },
+  "alex caruso|OUT|2026-10-26": {
+   "first_src": "bsky_scotto",
+   "first_ts": "2026-10-27T01:32:07+00:00",
+   "seen": {
+    "bsky_scotto": "2026-10-27T01:32:07+00:00"
+   }
+  },
+  "alex caruso|OUT|2026-10-27": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-10-27T21:35:00+00:00",
+   "seen": {
+    "bsky_rotowire": "2026-10-27T21:35:17+00:00",
+    "bsky_sportsethos": "2026-10-27T21:36:25+00:00",
+    "espn_injuries": "2026-10-27T21:35:00+00:00"
+   }
+  },
+  "alpha diallo|OUT|2026-10-27": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-10-27T22:34:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-10-27T22:34:00+00:00"
+   }
+  },
+  "ausar thompson|STARTING|2026-10-27": {
+   "first_src": "beat_det_sankofa",
+   "first_ts": "2026-10-27T23:37:42+00:00",
+   "seen": {
+    "beat_det_sankofa": "2026-10-27T23:37:42+00:00"
+   }
+  },
+  "cameron johnson|DOUBTFUL|2026-10-26": {
+   "first_src": "rotowire_rss",
+   "first_ts": "2026-10-27T03:36:00+00:00",
+   "seen": {
+    "rotowire_rss": "2026-10-27T03:36:00+00:00"
+   }
+  },
+  "cameron johnson|DOUBTFUL|2026-10-27": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-10-27T22:35:00+00:00",
+   "seen": {
+    "bsky_rotowire": "2026-10-27T22:35:33+00:00",
+    "espn_injuries": "2026-10-27T22:35:00+00:00"
+   }
+  },
+  "cason wallace|OUT|2026-10-26": {
+   "first_src": "bsky_shams_mirror",
+   "first_ts": "2026-10-26T21:59:07+00:00",
+   "seen": {
+    "bsky_scotto": "2026-10-26T22:07:05+00:00",
+    "bsky_shams_mirror": "2026-10-26T21:59:07+00:00",
+    "espn_injuries": "2026-10-26T22:05:00+00:00"
+   }
+  },
+  "chet holmgren|OUT|2026-10-27": {
+   "first_src": "reddit_fantasybball",
+   "first_ts": "2026-10-27T21:34:15+00:00",
+   "seen": {
+    "bsky_rotowire": "2026-10-27T21:41:27+00:00",
+    "espn_injuries": "2026-10-27T21:41:00+00:00",
+    "reddit_fantasybball": "2026-10-27T21:34:15+00:00"
+   }
+  },
+  "dominick barlow|OUT|2026-10-19": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-10-19T21:07:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-10-19T21:07:00+00:00"
+   }
+  },
+  "ivica zubac|OUT|2026-10-26": {
+   "first_src": "beat_ind_agness",
+   "first_ts": "2026-10-26T22:20:01+00:00",
+   "seen": {
+    "beat_ind_agness": "2026-10-26T22:20:01+00:00"
+   }
+  },
+  "ivica zubac|OUT|2026-10-27": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-10-27T21:13:00+00:00",
+   "seen": {
+    "bsky_rotowire": "2026-10-27T21:13:46+00:00",
+    "espn_injuries": "2026-10-27T21:13:00+00:00"
+   }
+  },
+  "jalen williams|OUT|2026-10-26": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-10-26T22:07:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-10-26T22:07:00+00:00"
+   }
+  },
+  "jaren jackson|OUT|2026-10-27": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-10-27T19:25:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-10-27T19:25:00+00:00",
+    "espn_news": "2026-10-27T20:59:07+00:00"
+   }
+  },
+  "jarrett allen|QUESTIONABLE|2026-10-21": {
+   "first_src": "beat_cle_cunningham",
+   "first_ts": "2026-10-21T21:02:18+00:00",
+   "seen": {
+    "beat_cle_cunningham": "2026-10-21T21:02:18+00:00"
+   }
+  },
+  "jay huff|STARTING|2026-10-25": {
+   "first_src": "beat_ind_agness",
+   "first_ts": "2026-10-25T23:29:00+00:00",
+   "seen": {
+    "beat_ind_agness": "2026-10-25T23:29:00+00:00"
+   }
+  },
+  "jusuf nurkic|OUT|2026-10-07": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-10-07T23:07:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-10-07T23:07:00+00:00"
+   }
+  },
+  "kawhi leonard|OUT|2026-10-25": {
+   "first_src": "bsky_scotto",
+   "first_ts": "2026-10-25T22:02:33+00:00",
+   "seen": {
+    "bsky_scotto": "2026-10-25T22:02:33+00:00"
+   }
+  },
+  "kawhi leonard|OUT|2026-10-27": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-10-27T15:31:00+00:00",
+   "seen": {
+    "bsky_rotowire": "2026-10-27T15:31:07+00:00",
+    "bsky_shams_mirror": "2026-10-27T20:14:48+00:00",
+    "bsky_sportsethos": "2026-10-27T16:18:55+00:00",
+    "espn_injuries": "2026-10-27T15:31:00+00:00",
+    "espn_news": "2026-10-27T16:41:14+00:00"
+   }
+  },
+  "keon ellis|NEWS|2026-10-27": {
+   "first_src": "espn_news",
+   "first_ts": "2026-10-27T22:55:54+00:00",
+   "seen": {
+    "espn_news": "2026-10-27T22:55:54+00:00"
+   }
+  },
+  "lebron james|STARTING|2026-10-25": {
+   "first_src": "beat_phi_aaronson",
+   "first_ts": "2026-10-26T01:08:51+00:00",
+   "seen": {
+    "beat_phi_aaronson": "2026-10-26T01:08:51+00:00"
+   }
+  },
+  "spencer jones|OUT|2026-10-26": {
+   "first_src": "beat_den_benedetto",
+   "first_ts": "2026-10-27T00:25:56+00:00",
+   "seen": {
+    "beat_den_benedetto": "2026-10-27T00:25:56+00:00"
+   }
+  },
+  "spencer jones|OUT|2026-10-27": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-10-27T22:35:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-10-27T22:35:00+00:00"
+   }
+  },
+  "tj mcconnell|OUT|2026-10-27": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-10-27T21:15:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-10-27T21:15:00+00:00"
+   }
+  },
+  "trevon brazile|STARTING|2026-10-26": {
+   "first_src": "beat_den_benedetto",
+   "first_ts": "2026-10-27T00:24:00+00:00",
+   "seen": {
+    "beat_den_benedetto": "2026-10-27T00:24:00+00:00"
+   }
+  },
+  "tyrese haliburton|QUESTIONABLE|2026-10-27": {
+   "first_src": "reddit_fantasybball",
+   "first_ts": "2026-10-27T21:17:46+00:00",
+   "seen": {
+    "bsky_sportsethos": "2026-10-27T21:29:06+00:00",
+    "espn_injuries": "2026-10-27T21:19:00+00:00",
+    "reddit_fantasybball": "2026-10-27T21:17:46+00:00"
+   }
+  },
+  "walker kessler|NEWS|2026-10-27": {
+   "first_src": "espn_news",
+   "first_ts": "2026-10-27T21:06:51+00:00",
+   "seen": {
+    "espn_news": "2026-10-27T21:06:51+00:00"
+   }
+  },
+  "yves missi|OUT|2026-10-24": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-10-24T22:17:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-10-24T22:17:00+00:00"
+   }
+  },
+  "yves missi|OUT|2026-10-27": {
+   "first_src": "bsky_sportsethos",
+   "first_ts": "2026-10-27T19:32:00+00:00",
+   "seen": {
+    "bsky_sportsethos": "2026-10-27T19:32:00+00:00"
+   }
+  }
+ }
+}
