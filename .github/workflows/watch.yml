@@ -1,0 +1,62 @@
+name: Coach K live watch
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Never let two runs fight over state/state.json.
+concurrency:
+  group: coachk-live-watch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Skip outside NBA game hours (16:00–07:59 UTC)
+        id: hours
+        run: |
+          h=$(date -u +%H)
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "$h" -ge 16 ] || [ "$h" -lt 8 ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Hour $h UTC — no NBA games, exiting."
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.hours.outputs.run == 'true'
+
+      - uses: actions/setup-python@v5
+        if: steps.hours.outputs.run == 'true'
+        with:
+          python-version: "3.12"
+
+      - name: Install requests
+        if: steps.hours.outputs.run == 'true'
+        run: pip install --quiet requests
+
+      - name: Check games
+        if: steps.hours.outputs.run == 'true'
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python watch.py
+
+      - name: Save state and alerts
+        if: steps.hours.outputs.run == 'true'
+        run: |
+          git add state alerts
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git config user.name "coachk-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "watch: state $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase --quiet
+          git push
