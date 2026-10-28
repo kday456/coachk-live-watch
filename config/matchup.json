@@ -1,8 +1,8 @@
 {
-  "week": 1,
-  "opponent": "",
-  "close": [],
-  "losing": [],
+  "week": 2,
+  "opponent": "Glassman",
+  "close": ["BLK", "FGM", "STL"],
+  "losing": ["FG%", "TO"],
   "_categories": "FGM FG% FTM FT% 3PM PTS REB AST STL BLK TO",
 
   "yahoo": {
