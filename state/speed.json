@@ -289,6 +289,14 @@
     "beat_phi_aaronson": "2026-10-28T23:59:55+00:00"
    }
   },
+  "jordan poole|DOUBTFUL|2026-10-29": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-10-29T16:49:00+00:00",
+   "seen": {
+    "bsky_sportsethos": "2026-10-29T17:00:00+00:00",
+    "espn_injuries": "2026-10-29T16:49:00+00:00"
+   }
+  },
   "jordan poole|OUT|2026-10-28": {
    "first_src": "espn_injuries",
    "first_ts": "2026-10-29T01:33:00+00:00",
@@ -320,6 +328,15 @@
     "bsky_sportsethos": "2026-10-27T16:18:55+00:00",
     "espn_injuries": "2026-10-27T15:31:00+00:00",
     "espn_news": "2026-10-27T16:41:14+00:00"
+   }
+  },
+  "kawhi leonard|OUT|2026-10-29": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-10-29T15:39:00+00:00",
+   "seen": {
+    "bsky_rotowire": "2026-10-29T15:39:36+00:00",
+    "espn_injuries": "2026-10-29T15:39:00+00:00",
+    "reddit_fantasybball": "2026-10-29T15:41:19+00:00"
    }
   },
   "kentavious caldwellpope|STARTING|2026-10-28": {
@@ -367,6 +384,21 @@
    "first_ts": "2026-10-29T01:39:45+00:00",
    "seen": {
     "espn_news": "2026-10-29T01:39:45+00:00"
+   }
+  },
+  "peyton watson|NEWS|2026-10-29": {
+   "first_src": "espn_news",
+   "first_ts": "2026-10-29T17:06:24+00:00",
+   "seen": {
+    "espn_news": "2026-10-29T17:06:24+00:00"
+   }
+  },
+  "robert williams|DOUBTFUL|2026-10-29": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-10-29T18:57:00+00:00",
+   "seen": {
+    "bsky_sportsethos": "2026-10-29T19:01:24+00:00",
+    "espn_injuries": "2026-10-29T18:57:00+00:00"
    }
   },
   "spencer jones|OUT|2026-10-26": {
