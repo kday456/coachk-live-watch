@@ -170,6 +170,13 @@
     "reddit_fantasybball": "2026-10-27T21:34:15+00:00"
    }
   },
+  "chet holmgren|OUT|2026-10-28": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-10-29T04:41:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-10-29T04:41:00+00:00"
+   }
+  },
   "dominick barlow|OUT|2026-10-19": {
    "first_src": "espn_injuries",
    "first_ts": "2026-10-19T21:07:00+00:00",
@@ -199,6 +206,13 @@
    "seen": {
     "bsky_rotowire": "2026-10-27T21:13:46+00:00",
     "espn_injuries": "2026-10-27T21:13:00+00:00"
+   }
+  },
+  "ivica zubac|OUT|2026-10-28": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-10-29T04:33:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-10-29T04:33:00+00:00"
    }
   },
   "ja morant|NEWS|2026-10-27": {
@@ -419,6 +433,13 @@
    "first_ts": "2026-10-27T21:06:51+00:00",
    "seen": {
     "espn_news": "2026-10-27T21:06:51+00:00"
+   }
+  },
+  "walker kessler|NEWS|2026-10-29": {
+   "first_src": "espn_news",
+   "first_ts": "2026-10-29T12:24:27+00:00",
+   "seen": {
+    "espn_news": "2026-10-29T12:24:27+00:00"
    }
   },
   "yves missi|OUT|2026-10-24": {
