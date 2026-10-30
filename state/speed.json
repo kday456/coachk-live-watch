@@ -252,6 +252,15 @@
     "espn_news": "2026-10-28T12:32:01+00:00"
    }
   },
+  "ja morant|OUT|2026-10-29": {
+   "first_src": "rotowire_rss",
+   "first_ts": "2026-10-29T09:17:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-10-30T04:17:00+00:00",
+    "reddit_fantasybball": "2026-10-30T04:12:46+00:00",
+    "rotowire_rss": "2026-10-29T09:17:00+00:00"
+   }
+  },
   "jakobe walter|STARTING|2026-10-28": {
    "first_src": "beat_tor_lewenberg",
    "first_ts": "2026-10-28T23:04:22+00:00",
@@ -437,6 +446,13 @@
    "seen": {
     "bsky_sportsethos": "2026-10-29T19:01:24+00:00",
     "espn_injuries": "2026-10-29T18:57:00+00:00"
+   }
+  },
+  "robert williams|OUT|2026-10-29": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-10-30T04:23:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-10-30T04:23:00+00:00"
    }
   },
   "spencer jones|OUT|2026-10-26": {
