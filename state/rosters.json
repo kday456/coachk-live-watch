@@ -1,5 +1,5 @@
 {
- "date": "2026-10-30",
+ "date": "2026-10-31",
  "teams": {
   "BKN": [
    {
@@ -722,6 +722,10 @@
    }
   ],
   "OKC": [
+   {
+    "id": "4397018",
+    "name": "Ochai Agbaji"
+   },
    {
     "id": "4684208",
     "name": "Brooks Barnhizer"
