@@ -464,6 +464,14 @@
     "espn_injuries": "2026-10-30T20:52:00+00:00"
    }
   },
+  "joel embiid|OUT|2026-10-31": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-10-31T17:12:00+00:00",
+   "seen": {
+    "bsky_rotowire": "2026-10-31T17:12:28+00:00",
+    "espn_injuries": "2026-10-31T17:12:00+00:00"
+   }
+  },
   "joel embiid|STARTING|2026-10-28": {
    "first_src": "beat_phi_aaronson",
    "first_ts": "2026-10-28T23:59:55+00:00",
@@ -588,6 +596,16 @@
     "bsky_rotowire": "2026-10-29T00:14:19+00:00",
     "bsky_sportsethos": "2026-10-29T00:11:26+00:00",
     "espn_injuries": "2026-10-29T00:14:00+00:00"
+   }
+  },
+  "lebron james|OUT|2026-10-31": {
+   "first_src": "rotowire_rss",
+   "first_ts": "2026-10-31T10:17:00+00:00",
+   "seen": {
+    "beat_phi_mizell": "2026-10-31T17:07:48+00:00",
+    "bsky_rotowire": "2026-10-31T17:16:48+00:00",
+    "espn_injuries": "2026-10-31T17:16:00+00:00",
+    "rotowire_rss": "2026-10-31T10:17:00+00:00"
    }
   },
   "lebron james|STARTING|2026-10-25": {
