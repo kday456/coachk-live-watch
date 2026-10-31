@@ -188,6 +188,13 @@
     "espn_injuries": "2026-10-27T22:35:00+00:00"
    }
   },
+  "cameron johnson|STARTING|2026-10-30": {
+   "first_src": "beat_den_benedetto",
+   "first_ts": "2026-10-31T01:34:27+00:00",
+   "seen": {
+    "beat_den_benedetto": "2026-10-31T01:34:27+00:00"
+   }
+  },
   "cason wallace|OUT|2026-10-26": {
    "first_src": "bsky_shams_mirror",
    "first_ts": "2026-10-26T21:59:07+00:00",
@@ -195,6 +202,14 @@
     "bsky_scotto": "2026-10-26T22:07:05+00:00",
     "bsky_shams_mirror": "2026-10-26T21:59:07+00:00",
     "espn_injuries": "2026-10-26T22:05:00+00:00"
+   }
+  },
+  "cason wallace|OUT|2026-10-30": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-10-31T01:16:00+00:00",
+   "seen": {
+    "bsky_rotowire": "2026-10-31T01:16:12+00:00",
+    "espn_injuries": "2026-10-31T01:16:00+00:00"
    }
   },
   "chet holmgren|OUT|2026-10-27": {
@@ -227,6 +242,7 @@
     "bsky_rotowire": "2026-10-30T22:25:59+00:00",
     "bsky_sportsethos": "2026-10-30T22:34:22+00:00",
     "espn_injuries": "2026-10-30T22:25:00+00:00",
+    "espn_news": "2026-10-31T01:44:11+00:00",
     "reddit_fantasybball": "2026-10-31T00:56:23+00:00"
    }
   },
@@ -366,6 +382,13 @@
     "bsky_sportsethos": "2026-10-28T23:29:51+00:00",
     "espn_injuries": "2026-10-28T23:41:00+00:00",
     "espn_news": "2026-10-29T00:29:05+00:00"
+   }
+  },
+  "jalen williams|OUT|2026-10-30": {
+   "first_src": "bsky_shams_mirror",
+   "first_ts": "2026-10-31T01:02:13+00:00",
+   "seen": {
+    "bsky_shams_mirror": "2026-10-31T01:02:13+00:00"
    }
   },
   "jaren jackson|OUT|2026-10-27": {
