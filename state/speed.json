@@ -271,6 +271,13 @@
     "reddit_fantasybball": "2026-10-31T21:32:17+00:00"
    }
   },
+  "dejounte murray|OUT|2026-11-01": {
+   "first_src": "reddit_fantasybball",
+   "first_ts": "2026-11-01T16:50:38+00:00",
+   "seen": {
+    "reddit_fantasybball": "2026-11-01T16:50:38+00:00"
+   }
+  },
   "dominick barlow|OUT|2026-10-19": {
    "first_src": "espn_injuries",
    "first_ts": "2026-10-19T21:07:00+00:00",
@@ -549,6 +556,14 @@
     "espn_injuries": "2026-11-01T04:53:00+00:00"
    }
   },
+  "jordan poole|OUT|2026-11-01": {
+   "first_src": "bsky_sportsethos",
+   "first_ts": "2026-11-01T20:09:49+00:00",
+   "seen": {
+    "bsky_sportsethos": "2026-11-01T20:09:49+00:00",
+    "espn_injuries": "2026-11-01T20:11:00+00:00"
+   }
+  },
   "karlanthony towns|AVAILABLE|2026-10-29": {
    "first_src": "rotowire_rss",
    "first_ts": "2026-10-30T03:22:00+00:00",
@@ -685,6 +700,13 @@
    "seen": {
     "bsky_sportsethos": "2026-10-30T22:57:47+00:00",
     "espn_injuries": "2026-10-30T22:51:00+00:00"
+   }
+  },
+  "obi toppin|OUT|2026-11-01": {
+   "first_src": "bsky_sportsethos",
+   "first_ts": "2026-11-01T20:31:41+00:00",
+   "seen": {
+    "bsky_sportsethos": "2026-11-01T20:31:41+00:00"
    }
   },
   "peyton watson|NEWS|2026-10-28": {
