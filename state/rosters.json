@@ -1,5 +1,5 @@
 {
- "date": "2026-10-31",
+ "date": "2026-11-01",
  "teams": {
   "BKN": [
    {
@@ -723,10 +723,6 @@
   ],
   "OKC": [
    {
-    "id": "4397018",
-    "name": "Ochai Agbaji"
-   },
-   {
     "id": "4684208",
     "name": "Brooks Barnhizer"
    },
@@ -1019,6 +1015,10 @@
     "name": "Tony Bradley"
    },
    {
+    "id": "4683736",
+    "name": "Kobe Bufkin"
+   },
+   {
     "id": "4683766",
     "name": "Isaiah Collier"
    },
@@ -1037,10 +1037,6 @@
    {
     "id": "4397077",
     "name": "Jaxson Hayes"
-   },
-   {
-    "id": "4396963",
-    "name": "Blake Hinson"
    },
    {
     "id": "4433618",
