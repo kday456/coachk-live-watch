@@ -488,6 +488,13 @@
     "espn_injuries": "2026-10-30T20:52:00+00:00"
    }
   },
+  "jaylon tyson|OUT|2026-10-31": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-01T04:53:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-01T04:53:00+00:00"
+   }
+  },
   "joel embiid|OUT|2026-10-31": {
    "first_src": "espn_injuries",
    "first_ts": "2026-10-31T17:12:00+00:00",
@@ -533,6 +540,13 @@
    "seen": {
     "bsky_sportsethos": "2026-10-30T21:52:06+00:00",
     "espn_injuries": "2026-10-30T21:25:00+00:00"
+   }
+  },
+  "jordan poole|OUT|2026-10-31": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-01T04:53:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-01T04:53:00+00:00"
    }
   },
   "karlanthony towns|AVAILABLE|2026-10-29": {
@@ -722,6 +736,13 @@
    "first_ts": "2026-11-01T01:54:45+00:00",
    "seen": {
     "espn_news": "2026-11-01T01:54:45+00:00"
+   }
+  },
+  "saddiq bey|NEWS|2026-11-01": {
+   "first_src": "rotowire_rss",
+   "first_ts": "2026-11-01T07:10:00+00:00",
+   "seen": {
+    "rotowire_rss": "2026-11-01T07:10:00+00:00"
    }
   },
   "scoot henderson|STARTING|2026-10-31": {
