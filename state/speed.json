@@ -99,6 +99,20 @@
     "beat_tor_lewenberg": "2026-10-24T01:45:00+00:00"
    }
   },
+  "TOR|STARTING|2026-11-01|raptors-to-start-the-season-with": {
+   "first_src": "beat_tor_lewenberg",
+   "first_ts": "2026-11-02T04:35:04+00:00",
+   "seen": {
+    "beat_tor_lewenberg": "2026-11-02T04:35:04+00:00"
+   }
+  },
+  "aaron nesmith|OUT|2026-11-02": {
+   "first_src": "bsky_sportsethos",
+   "first_ts": "2026-11-02T18:37:05+00:00",
+   "seen": {
+    "bsky_sportsethos": "2026-11-02T18:37:05+00:00"
+   }
+  },
   "adem bona|STARTING|2026-10-25": {
    "first_src": "beat_phi_aaronson",
    "first_ts": "2026-10-26T00:03:33+00:00",
@@ -157,6 +171,13 @@
    "seen": {
     "beat_den_benedetto": "2026-10-31T00:42:26+00:00",
     "espn_injuries": "2026-10-31T00:42:00+00:00"
+   }
+  },
+  "andrew nembhard|OUT|2026-11-02": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-02T18:09:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-02T18:09:00+00:00"
    }
   },
   "ausar thompson|STARTING|2026-10-27": {
@@ -322,6 +343,14 @@
    "first_ts": "2026-10-31T21:14:25+00:00",
    "seen": {
     "bsky_rotowire": "2026-10-31T21:14:25+00:00"
+   }
+  },
+  "ivica zubac|OUT|2026-11-02": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-02T18:19:00+00:00",
+   "seen": {
+    "bsky_rotowire": "2026-11-02T18:19:29+00:00",
+    "espn_injuries": "2026-11-02T18:19:00+00:00"
    }
   },
   "ja morant|NEWS|2026-10-27": {
@@ -672,6 +701,13 @@
     "espn_news": "2026-10-27T22:55:54+00:00"
    }
   },
+  "larry nance|DOUBTFUL|2026-11-02": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-02T18:16:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-02T18:16:00+00:00"
+   }
+  },
   "lauri markkanen|OUT|2026-10-28": {
    "first_src": "bsky_sportsethos",
    "first_ts": "2026-10-29T00:11:26+00:00",
@@ -744,6 +780,13 @@
    "seen": {
     "bsky_sportsethos": "2026-11-01T20:31:41+00:00",
     "espn_injuries": "2026-11-01T20:29:00+00:00"
+   }
+  },
+  "pascal siakam|NEWS|2026-11-02": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-02T18:06:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-02T18:06:00+00:00"
    }
   },
   "peyton watson|NEWS|2026-10-28": {
@@ -861,6 +904,13 @@
     "espn_injuries": "2026-10-27T21:15:00+00:00"
    }
   },
+  "tj mcconnell|OUT|2026-11-02": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-02T18:19:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-02T18:19:00+00:00"
+   }
+  },
   "trevon brazile|STARTING|2026-10-26": {
    "first_src": "beat_den_benedetto",
    "first_ts": "2026-10-27T00:24:00+00:00",
@@ -883,6 +933,13 @@
     "espn_injuries": "2026-10-31T23:23:00+00:00"
    }
   },
+  "tyrese haliburton|NEWS|2026-11-02": {
+   "first_src": "espn_news",
+   "first_ts": "2026-11-02T13:20:26+00:00",
+   "seen": {
+    "espn_news": "2026-11-02T13:20:26+00:00"
+   }
+  },
   "tyrese haliburton|OUT|2026-10-28": {
    "first_src": "rotowire_rss",
    "first_ts": "2026-10-28T10:40:00+00:00",
@@ -896,6 +953,13 @@
     "espn_news": "2026-10-28T18:32:14+00:00",
     "reddit_fantasybball": "2026-10-28T17:36:58+00:00",
     "rotowire_rss": "2026-10-28T10:40:00+00:00"
+   }
+  },
+  "tyrese haliburton|OUT|2026-11-02": {
+   "first_src": "reddit_fantasybball",
+   "first_ts": "2026-11-02T18:14:10+00:00",
+   "seen": {
+    "reddit_fantasybball": "2026-11-02T18:14:10+00:00"
    }
   },
   "tyrese haliburton|QUESTIONABLE|2026-10-27": {
