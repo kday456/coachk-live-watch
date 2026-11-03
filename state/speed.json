@@ -334,6 +334,13 @@
     "espn_injuries": "2026-10-19T21:07:00+00:00"
    }
   },
+  "dominick barlow|OUT|2026-11-03": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-03T22:04:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-03T22:04:00+00:00"
+   }
+  },
   "egor demin|OUT|2026-10-27": {
    "first_src": "bsky_scotto",
    "first_ts": "2026-10-28T00:57:01+00:00",
@@ -414,6 +421,13 @@
    "first_ts": "2026-10-30T20:36:51+00:00",
    "seen": {
     "espn_news": "2026-10-30T20:36:51+00:00"
+   }
+  },
+  "ja morant|NEWS|2026-11-03": {
+   "first_src": "espn_news",
+   "first_ts": "2026-11-03T19:07:41+00:00",
+   "seen": {
+    "espn_news": "2026-11-03T19:07:41+00:00"
    }
   },
   "ja morant|OUT|2026-10-29": {
@@ -608,6 +622,13 @@
    "first_ts": "2026-11-03T05:29:00+00:00",
    "seen": {
     "espn_injuries": "2026-11-03T05:29:00+00:00"
+   }
+  },
+  "jaylon tyson|OUT|2026-11-03": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-03T22:11:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-03T22:11:00+00:00"
    }
   },
   "joel embiid|MINUTES LIMIT|2026-11-02": {
@@ -902,7 +923,16 @@
    "seen": {
     "bsky_rotowire": "2026-11-02T23:17:55+00:00",
     "bsky_sportsethos": "2026-11-02T23:17:57+00:00",
-    "espn_injuries": "2026-11-02T23:17:00+00:00"
+    "espn_injuries": "2026-11-02T23:17:00+00:00",
+    "rotowire_rss": "2026-11-03T02:10:00+00:00"
+   }
+  },
+  "peyton watson|OUT|2026-11-03": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-03T22:09:00+00:00",
+   "seen": {
+    "bsky_rotowire": "2026-11-03T22:09:32+00:00",
+    "espn_injuries": "2026-11-03T22:09:00+00:00"
    }
   },
   "peyton watson|QUESTIONABLE|2026-11-01": {
