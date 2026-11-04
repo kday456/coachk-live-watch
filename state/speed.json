@@ -715,6 +715,14 @@
     "espn_injuries": "2026-11-01T20:11:00+00:00"
    }
   },
+  "josh hart|OUT|2026-11-04": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-04T18:08:00+00:00",
+   "seen": {
+    "bsky_sportsethos": "2026-11-04T18:08:13+00:00",
+    "espn_injuries": "2026-11-04T18:08:00+00:00"
+   }
+  },
   "julius randle|OUT|2026-11-01": {
    "first_src": "bsky_sportsethos",
    "first_ts": "2026-11-02T01:32:14+00:00",
