@@ -8,6 +8,13 @@
     "beat_cle_cunningham": "2026-10-24T14:31:22+00:00"
    }
   },
+  "DEN|AVAILABLE|2026-11-04|raptors-hit-a-3-and-gordons": {
+   "first_src": "beat_den_benedetto",
+   "first_ts": "2026-11-05T03:42:55+00:00",
+   "seen": {
+    "beat_den_benedetto": "2026-11-05T03:42:55+00:00"
+   }
+  },
   "DEN|STARTING|2026-11-04|cant-say-offensive-has-come-easily": {
    "first_src": "beat_den_benedetto",
    "first_ts": "2026-11-05T02:43:37+00:00",
@@ -132,6 +139,13 @@
    "first_ts": "2026-11-02T04:35:04+00:00",
    "seen": {
     "beat_tor_lewenberg": "2026-11-02T04:35:04+00:00"
+   }
+  },
+  "TOR|STARTING|2026-11-04|122-nuggets-run-to-start-the": {
+   "first_src": "beat_tor_lewenberg",
+   "first_ts": "2026-11-05T03:29:08+00:00",
+   "seen": {
+    "beat_tor_lewenberg": "2026-11-05T03:29:08+00:00"
    }
   },
   "aaron nesmith|OUT|2026-11-02": {
@@ -375,6 +389,13 @@
    "seen": {
     "beat_den_benedetto": "2026-11-05T02:05:52+00:00",
     "espn_injuries": "2026-11-05T02:05:00+00:00"
+   }
+  },
+  "demar derozan|OUT|2026-11-05": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-05T15:04:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-05T15:04:00+00:00"
    }
   },
   "dominick barlow|OUT|2026-10-19": {
@@ -621,6 +642,13 @@
     "espn_news": "2026-11-01T02:31:45+00:00"
    }
   },
+  "jarrett allen|NEWS|2026-11-04": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-05T03:36:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-05T03:36:00+00:00"
+   }
+  },
   "jarrett allen|QUESTIONABLE|2026-10-21": {
    "first_src": "beat_cle_cunningham",
    "first_ts": "2026-10-21T21:02:18+00:00",
@@ -677,6 +705,13 @@
    "seen": {
     "bsky_sportsethos": "2026-11-04T23:18:40+00:00",
     "espn_injuries": "2026-11-04T23:18:00+00:00"
+   }
+  },
+  "jaylin williams|OUT|2026-11-05": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-05T15:03:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-05T15:03:00+00:00"
    }
   },
   "jaylin williams|QUESTIONABLE|2026-11-03": {
@@ -807,6 +842,13 @@
     "espn_injuries": "2026-11-04T18:08:00+00:00"
    }
   },
+  "josh hart|OUT|2026-11-05": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-05T15:00:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-05T15:00:00+00:00"
+   }
+  },
   "julius randle|OUT|2026-11-01": {
    "first_src": "bsky_sportsethos",
    "first_ts": "2026-11-02T01:32:14+00:00",
@@ -826,6 +868,13 @@
    "first_ts": "2026-11-05T00:21:00+00:00",
    "seen": {
     "espn_injuries": "2026-11-05T00:21:00+00:00"
+   }
+  },
+  "kam jones|OUT|2026-11-05": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-05T14:58:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-05T14:58:00+00:00"
    }
   },
   "karlanthony towns|AVAILABLE|2026-10-29": {
@@ -912,6 +961,13 @@
    "first_ts": "2026-11-05T00:37:00+00:00",
    "seen": {
     "espn_injuries": "2026-11-05T00:37:00+00:00"
+   }
+  },
+  "kelly oubre|OUT|2026-11-05": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-05T15:00:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-05T15:00:00+00:00"
    }
   },
   "kentavious caldwellpope|STARTING|2026-10-28": {
@@ -1085,6 +1141,13 @@
     "espn_injuries": "2026-11-03T22:09:00+00:00"
    }
   },
+  "peyton watson|OUT|2026-11-05": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-05T15:03:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-05T15:03:00+00:00"
+   }
+  },
   "peyton watson|QUESTIONABLE|2026-11-01": {
    "first_src": "bsky_sportsethos",
    "first_ts": "2026-11-01T21:48:20+00:00",
@@ -1234,6 +1297,13 @@
    "first_ts": "2026-11-04T23:10:00+00:00",
    "seen": {
     "espn_injuries": "2026-11-04T23:10:00+00:00"
+   }
+  },
+  "trey murphy|OUT|2026-11-05": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-05T15:02:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-05T15:02:00+00:00"
    }
   },
   "ty jerome|OUT|2026-10-30": {
