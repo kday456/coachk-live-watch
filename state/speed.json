@@ -406,6 +406,15 @@
     "espn_injuries": "2026-11-05T15:04:00+00:00"
    }
   },
+  "demar derozan|PROBABLE|2026-11-06": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-06T22:48:00+00:00",
+   "seen": {
+    "beat_den_benedetto": "2026-11-06T22:57:51+00:00",
+    "bsky_sportsethos": "2026-11-06T22:50:42+00:00",
+    "espn_injuries": "2026-11-06T22:48:00+00:00"
+   }
+  },
   "dominick barlow|OUT|2026-10-19": {
    "first_src": "espn_injuries",
    "first_ts": "2026-10-19T21:07:00+00:00",
@@ -437,6 +446,7 @@
     "bsky_rotowire": "2026-11-06T17:59:51+00:00",
     "bsky_sportsethos": "2026-11-06T17:59:54+00:00",
     "espn_injuries": "2026-11-06T17:59:00+00:00",
+    "reddit_fantasybball": "2026-11-06T18:40:53+00:00",
     "rotowire_rss": "2026-11-06T10:00:00+00:00"
    }
   },
@@ -900,6 +910,15 @@
     "espn_injuries": "2026-11-05T15:00:00+00:00"
    }
   },
+  "josh hart|OUT|2026-11-06": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-06T21:48:00+00:00",
+   "seen": {
+    "bsky_rotowire": "2026-11-06T21:48:38+00:00",
+    "bsky_sportsethos": "2026-11-06T21:52:57+00:00",
+    "espn_injuries": "2026-11-06T21:48:00+00:00"
+   }
+  },
   "julius randle|OUT|2026-11-01": {
    "first_src": "bsky_sportsethos",
    "first_ts": "2026-11-02T01:32:14+00:00",
@@ -1287,6 +1306,13 @@
    "first_ts": "2026-11-01T07:10:00+00:00",
    "seen": {
     "rotowire_rss": "2026-11-01T07:10:00+00:00"
+   }
+  },
+  "saddiq bey|NEWS|2026-11-06": {
+   "first_src": "espn_news",
+   "first_ts": "2026-11-06T18:17:40+00:00",
+   "seen": {
+    "espn_news": "2026-11-06T18:17:40+00:00"
    }
   },
   "scoot henderson|STARTING|2026-10-31": {
