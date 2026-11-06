@@ -429,6 +429,17 @@
     "bsky_sportsethos": "2026-10-28T00:57:27+00:00"
    }
   },
+  "immanuel quickley|QUESTIONABLE|2026-11-06": {
+   "first_src": "rotowire_rss",
+   "first_ts": "2026-11-06T10:00:00+00:00",
+   "seen": {
+    "beat_tor_lewenberg": "2026-11-06T17:55:58+00:00",
+    "bsky_rotowire": "2026-11-06T17:59:51+00:00",
+    "bsky_sportsethos": "2026-11-06T17:59:54+00:00",
+    "espn_injuries": "2026-11-06T17:59:00+00:00",
+    "rotowire_rss": "2026-11-06T10:00:00+00:00"
+   }
+  },
   "isaiah stewart|DOUBTFUL|2026-11-03": {
    "first_src": "rotowire_rss",
    "first_ts": "2026-11-04T06:31:00+00:00",
@@ -903,6 +914,13 @@
     "espn_injuries": "2026-11-03T23:07:00+00:00"
    }
   },
+  "jusuf nurkic|OUT|2026-11-06": {
+   "first_src": "reddit_fantasybball",
+   "first_ts": "2026-11-06T18:16:42+00:00",
+   "seen": {
+    "reddit_fantasybball": "2026-11-06T18:16:42+00:00"
+   }
+  },
   "kam jones|OUT|2026-11-04": {
    "first_src": "espn_injuries",
    "first_ts": "2026-11-05T00:21:00+00:00",
@@ -915,6 +933,13 @@
    "first_ts": "2026-11-05T14:58:00+00:00",
    "seen": {
     "espn_injuries": "2026-11-05T14:58:00+00:00"
+   }
+  },
+  "kam jones|OUT|2026-11-06": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-06T15:08:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-06T15:08:00+00:00"
    }
   },
   "karlanthony towns|AVAILABLE|2026-10-29": {
