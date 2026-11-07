@@ -1370,6 +1370,14 @@
     "espn_injuries": "2026-10-30T04:23:00+00:00"
    }
   },
+  "robert williams|OUT|2026-11-07": {
+   "first_src": "bsky_sportsethos",
+   "first_ts": "2026-11-07T21:03:58+00:00",
+   "seen": {
+    "bsky_sportsethos": "2026-11-07T21:03:58+00:00",
+    "espn_injuries": "2026-11-07T21:12:00+00:00"
+   }
+  },
   "saddiq bey|NEWS|2026-10-31": {
    "first_src": "espn_news",
    "first_ts": "2026-11-01T01:54:45+00:00",
@@ -1548,6 +1556,14 @@
    "first_ts": "2026-11-02T13:20:26+00:00",
    "seen": {
     "espn_news": "2026-11-02T13:20:26+00:00"
+   }
+  },
+  "tyrese haliburton|NEWS|2026-11-07": {
+   "first_src": "rotowire_rss",
+   "first_ts": "2026-11-07T12:46:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-07T20:46:00+00:00",
+    "rotowire_rss": "2026-11-07T12:46:00+00:00"
    }
   },
   "tyrese haliburton|OUT|2026-10-28": {
