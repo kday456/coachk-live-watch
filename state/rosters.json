@@ -1,5 +1,5 @@
 {
- "date": "2026-11-07",
+ "date": "2026-11-08",
  "teams": {
   "BKN": [
    {
@@ -85,10 +85,6 @@
     "name": "Thomas Bryant"
    },
    {
-    "id": "4431734",
-    "name": "Tristan Enaruna"
-   },
-   {
     "id": "3992",
     "name": "James Harden"
    },
@@ -99,6 +95,10 @@
    {
     "id": "4066757",
     "name": "Sam Merrill"
+   },
+   {
+    "id": "5177362",
+    "name": "Riley Minix"
    },
    {
     "id": "3908809",
@@ -485,6 +485,10 @@
    {
     "id": "4595400",
     "name": "Olivier-Maxence Prosper"
+   },
+   {
+    "id": "5105462",
+    "name": "Richie Saunders"
    },
    {
     "id": "4781746",
