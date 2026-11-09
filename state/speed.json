@@ -430,19 +430,21 @@
     "espn_injuries": "2026-11-06T22:48:00+00:00"
    }
   },
+  "demar derozan|PROBABLE|2026-11-09": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-09T19:20:00+00:00",
+   "seen": {
+    "bsky_sportsethos": "2026-11-09T19:27:28+00:00",
+    "espn_injuries": "2026-11-09T19:20:00+00:00",
+    "reddit_fantasybball": "2026-11-09T19:42:48+00:00"
+   }
+  },
   "demar derozan|QUESTIONABLE|2026-11-08": {
    "first_src": "espn_injuries",
    "first_ts": "2026-11-08T22:51:00+00:00",
    "seen": {
     "bsky_sportsethos": "2026-11-08T22:53:29+00:00",
     "espn_injuries": "2026-11-08T22:51:00+00:00"
-   }
-  },
-  "dominick barlow|OUT|2026-10-19": {
-   "first_src": "espn_injuries",
-   "first_ts": "2026-10-19T21:07:00+00:00",
-   "seen": {
-    "espn_injuries": "2026-10-19T21:07:00+00:00"
    }
   },
   "dominick barlow|OUT|2026-11-03": {
@@ -498,6 +500,13 @@
     "bsky_sportsethos": "2026-11-08T17:19:40+00:00",
     "espn_injuries": "2026-11-08T17:14:00+00:00",
     "reddit_fantasybball": "2026-11-08T19:44:26+00:00"
+   }
+  },
+  "immanuel quickley|QUESTIONABLE|2026-11-09": {
+   "first_src": "beat_tor_lewenberg",
+   "first_ts": "2026-11-09T18:22:22+00:00",
+   "seen": {
+    "beat_tor_lewenberg": "2026-11-09T18:22:22+00:00"
    }
   },
   "isaiah stewart|DOUBTFUL|2026-11-03": {
@@ -1273,6 +1282,13 @@
     "espn_injuries": "2026-11-08T23:44:00+00:00"
    }
   },
+  "lauri markkanen|OUT|2026-11-09": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-09T15:46:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-09T15:46:00+00:00"
+   }
+  },
   "lebron james|OUT|2026-10-31": {
    "first_src": "rotowire_rss",
    "first_ts": "2026-10-31T10:17:00+00:00",
@@ -1338,6 +1354,13 @@
    "first_ts": "2026-11-08T04:04:00+00:00",
    "seen": {
     "espn_injuries": "2026-11-08T04:04:00+00:00"
+   }
+  },
+  "mikel brown|OUT|2026-11-09": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-09T15:46:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-09T15:46:00+00:00"
    }
   },
   "nikola topic|OUT|2026-11-03": {
@@ -1484,6 +1507,21 @@
     "bsky_rotowire": "2026-11-05T22:15:50+00:00",
     "bsky_sportsethos": "2026-11-05T22:27:06+00:00",
     "espn_injuries": "2026-11-05T22:15:00+00:00"
+   }
+  },
+  "quentin grimes|OUT|2026-11-09": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-09T18:13:00+00:00",
+   "seen": {
+    "bsky_sportsethos": "2026-11-09T18:15:28+00:00",
+    "espn_injuries": "2026-11-09T18:13:00+00:00"
+   }
+  },
+  "quenton jackson|NEWS|2026-11-09": {
+   "first_src": "espn_news",
+   "first_ts": "2026-11-09T21:27:07+00:00",
+   "seen": {
+    "espn_news": "2026-11-09T21:27:07+00:00"
    }
   },
   "quinten post|DOUBTFUL|2026-10-30": {
@@ -1698,6 +1736,13 @@
     "beat_ind_agness": "2026-11-07T23:39:18+00:00"
    }
   },
+  "trendon watford|OUT|2026-11-09": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-09T20:50:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-09T20:50:00+00:00"
+   }
+  },
   "trevon brazile|STARTING|2026-10-26": {
    "first_src": "beat_den_benedetto",
    "first_ts": "2026-10-27T00:24:00+00:00",
@@ -1717,6 +1762,13 @@
    "first_ts": "2026-11-05T15:02:00+00:00",
    "seen": {
     "espn_injuries": "2026-11-05T15:02:00+00:00"
+   }
+  },
+  "trey murphy|OUT|2026-11-09": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-09T20:49:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-09T20:49:00+00:00"
    }
   },
   "ty jerome|OUT|2026-10-30": {
