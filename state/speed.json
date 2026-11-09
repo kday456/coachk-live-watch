@@ -1219,6 +1219,22 @@
     "espn_news": "2026-10-27T22:55:54+00:00"
    }
   },
+  "keyonte george|OUT|2026-11-07": {
+   "first_src": "rotowire_rss",
+   "first_ts": "2026-11-08T06:24:00+00:00",
+   "seen": {
+    "rotowire_rss": "2026-11-08T06:24:00+00:00"
+   }
+  },
+  "keyonte george|OUT|2026-11-08": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-09T02:24:00+00:00",
+   "seen": {
+    "bsky_rotowire": "2026-11-09T02:24:13+00:00",
+    "espn_injuries": "2026-11-09T02:24:00+00:00",
+    "reddit_fantasybball": "2026-11-09T02:41:46+00:00"
+   }
+  },
   "larry nance|DOUBTFUL|2026-11-02": {
    "first_src": "espn_injuries",
    "first_ts": "2026-11-02T18:16:00+00:00",
@@ -1253,7 +1269,8 @@
    "first_src": "bsky_sportsethos",
    "first_ts": "2026-11-08T23:09:38+00:00",
    "seen": {
-    "bsky_sportsethos": "2026-11-08T23:09:38+00:00"
+    "bsky_sportsethos": "2026-11-08T23:09:38+00:00",
+    "espn_injuries": "2026-11-08T23:44:00+00:00"
    }
   },
   "lebron james|OUT|2026-10-31": {
