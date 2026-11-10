@@ -583,6 +583,14 @@
     "beat_tor_lewenberg": "2026-11-09T18:22:22+00:00"
    }
   },
+  "immanuel quickley|QUESTIONABLE|2026-11-10": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-10T21:49:00+00:00",
+   "seen": {
+    "bsky_sportsethos": "2026-11-10T21:56:59+00:00",
+    "espn_injuries": "2026-11-10T21:49:00+00:00"
+   }
+  },
   "isaiah stewart|DOUBTFUL|2026-11-03": {
    "first_src": "rotowire_rss",
    "first_ts": "2026-11-04T06:31:00+00:00",
@@ -1151,6 +1159,14 @@
     "espn_injuries": "2026-11-01T20:11:00+00:00"
    }
   },
+  "josh hart|DOUBTFUL|2026-11-10": {
+   "first_src": "bsky_rotowire",
+   "first_ts": "2026-11-10T19:20:03+00:00",
+   "seen": {
+    "bsky_rotowire": "2026-11-10T19:20:03+00:00",
+    "bsky_sportsethos": "2026-11-10T19:20:08+00:00"
+   }
+  },
   "josh hart|OUT|2026-11-04": {
    "first_src": "espn_injuries",
    "first_ts": "2026-11-04T18:08:00+00:00",
@@ -1180,6 +1196,21 @@
    "first_ts": "2026-11-08T16:01:00+00:00",
    "seen": {
     "espn_injuries": "2026-11-08T16:01:00+00:00"
+   }
+  },
+  "josh hart|OUT|2026-11-09": {
+   "first_src": "rotowire_rss",
+   "first_ts": "2026-11-10T02:59:00+00:00",
+   "seen": {
+    "rotowire_rss": "2026-11-10T02:59:00+00:00"
+   }
+  },
+  "josh hart|OUT|2026-11-10": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-10T22:58:00+00:00",
+   "seen": {
+    "bsky_rotowire": "2026-11-10T22:58:30+00:00",
+    "espn_injuries": "2026-11-10T22:58:00+00:00"
    }
   },
   "julius randle|OUT|2026-11-01": {
@@ -1423,6 +1454,7 @@
    "first_ts": "2026-11-10T10:30:00+00:00",
    "seen": {
     "bsky_rotowire": "2026-11-10T18:30:16+00:00",
+    "bsky_sportsethos": "2026-11-10T19:18:05+00:00",
     "espn_injuries": "2026-11-10T18:30:00+00:00",
     "reddit_fantasybball": "2026-11-10T18:32:21+00:00",
     "rotowire_rss": "2026-11-10T10:30:00+00:00"
@@ -1536,6 +1568,13 @@
    "first_ts": "2026-11-08T16:22:12+00:00",
    "seen": {
     "espn_news": "2026-11-08T16:22:12+00:00"
+   }
+  },
+  "nolan traore|QUESTIONABLE|2026-11-10": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-10T22:56:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-10T22:56:00+00:00"
    }
   },
   "obi toppin|OUT|2026-10-30": {
@@ -1775,6 +1814,13 @@
     "espn_injuries": "2026-11-10T02:49:00+00:00"
    }
   },
+  "sam merrill|OUT|2026-11-10": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-10T22:12:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-10T22:12:00+00:00"
+   }
+  },
   "scoot henderson|STARTING|2026-10-31": {
    "first_src": "bsky_sportsethos",
    "first_ts": "2026-10-31T18:03:24+00:00",
@@ -1806,6 +1852,16 @@
     "bsky_rotowire": "2026-11-09T22:50:39+00:00",
     "espn_injuries": "2026-11-10T03:01:00+00:00",
     "reddit_fantasybball": "2026-11-09T22:56:29+00:00"
+   }
+  },
+  "scottie barnes|OUT|2026-11-10": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-10T21:48:00+00:00",
+   "seen": {
+    "beat_tor_lewenberg": "2026-11-10T21:52:16+00:00",
+    "bsky_sportsethos": "2026-11-10T21:51:56+00:00",
+    "espn_injuries": "2026-11-10T21:48:00+00:00",
+    "reddit_fantasybball": "2026-11-10T21:53:02+00:00"
    }
   },
   "scotty pippen|DOUBTFUL|2026-11-01": {
@@ -1848,6 +1904,13 @@
    "first_ts": "2026-11-08T23:07:00+00:00",
    "seen": {
     "espn_injuries": "2026-11-08T23:07:00+00:00"
+   }
+  },
+  "scotty pippen|OUT|2026-11-10": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-10T23:09:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-10T23:09:00+00:00"
    }
   },
   "spencer jones|OUT|2026-10-26": {
@@ -1906,6 +1969,13 @@
     "espn_injuries": "2026-11-09T20:50:00+00:00"
    }
   },
+  "trendon watford|OUT|2026-11-10": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-10T19:26:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-10T19:26:00+00:00"
+   }
+  },
   "trevon brazile|STARTING|2026-10-26": {
    "first_src": "beat_den_benedetto",
    "first_ts": "2026-10-27T00:24:00+00:00",
@@ -1947,6 +2017,21 @@
    "seen": {
     "bsky_sportsethos": "2026-10-31T23:21:21+00:00",
     "espn_injuries": "2026-10-31T23:23:00+00:00"
+   }
+  },
+  "tyler herro|OUT|2026-11-09": {
+   "first_src": "rotowire_rss",
+   "first_ts": "2026-11-10T03:24:00+00:00",
+   "seen": {
+    "rotowire_rss": "2026-11-10T03:24:00+00:00"
+   }
+  },
+  "tyler herro|OUT|2026-11-10": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-10T23:24:00+00:00",
+   "seen": {
+    "bsky_rotowire": "2026-11-10T23:24:09+00:00",
+    "espn_injuries": "2026-11-10T23:24:00+00:00"
    }
   },
   "tyrese haliburton|NEWS|2026-11-02": {
