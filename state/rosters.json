@@ -1,5 +1,5 @@
 {
- "date": "2026-11-10",
+ "date": "2026-11-11",
  "teams": {
   "BKN": [
    {
@@ -249,10 +249,6 @@
     "name": "Isaac Jones"
    },
    {
-    "id": "4700852",
-    "name": "Chaz Lanier"
-   },
-   {
     "id": "5258459",
     "name": "Ebuka Okorie"
    },
@@ -357,6 +353,10 @@
     "name": "Cameron Carr"
    },
    {
+    "id": "5105817",
+    "name": "Carson Cooper"
+   },
+   {
     "id": "3945274",
     "name": "Luka Doncic"
    },
@@ -387,10 +387,6 @@
    {
     "id": "3155535",
     "name": "Kevon Looney"
-   },
-   {
-    "id": "4596528",
-    "name": "Lawson Lovering"
    },
    {
     "id": "4278580",
@@ -433,10 +429,6 @@
    {
     "id": "5041935",
     "name": "Cameron Boozer"
-   },
-   {
-    "id": "5105817",
-    "name": "Carson Cooper"
    },
    {
     "id": "4903027",

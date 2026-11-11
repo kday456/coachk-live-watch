@@ -1285,6 +1285,20 @@
     "espn_news": "2026-11-03T17:05:15+00:00"
    }
   },
+  "karlanthony towns|NEWS|2026-11-09": {
+   "first_src": "rotowire_rss",
+   "first_ts": "2026-11-10T06:58:00+00:00",
+   "seen": {
+    "rotowire_rss": "2026-11-10T06:58:00+00:00"
+   }
+  },
+  "karlanthony towns|NEWS|2026-11-10": {
+   "first_src": "espn_news",
+   "first_ts": "2026-11-11T03:06:34+00:00",
+   "seen": {
+    "espn_news": "2026-11-11T03:06:34+00:00"
+   }
+  },
   "karlanthony towns|PROBABLE|2026-10-29": {
    "first_src": "rotowire_rss",
    "first_ts": "2026-10-30T01:34:00+00:00",
@@ -2031,6 +2045,7 @@
    "first_ts": "2026-11-10T23:24:00+00:00",
    "seen": {
     "bsky_rotowire": "2026-11-10T23:24:09+00:00",
+    "bsky_sportsethos": "2026-11-10T23:52:49+00:00",
     "espn_injuries": "2026-11-10T23:24:00+00:00"
    }
   },
