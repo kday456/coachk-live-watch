@@ -629,10 +629,13 @@
    }
   },
   "evan mobley|OUT|2026-11-14": {
-   "first_src": "espn_injuries",
-   "first_ts": "2026-11-14T15:01:00+00:00",
+   "first_src": "rotowire_rss",
+   "first_ts": "2026-11-14T10:34:00+00:00",
    "seen": {
-    "espn_injuries": "2026-11-14T15:01:00+00:00"
+    "bsky_rotowire": "2026-11-14T18:33:51+00:00",
+    "bsky_sportsethos": "2026-11-14T18:20:46+00:00",
+    "espn_injuries": "2026-11-14T15:01:00+00:00",
+    "rotowire_rss": "2026-11-14T10:34:00+00:00"
    }
   },
   "immanuel quickley|AVAILABLE|2026-11-11": {
@@ -1054,6 +1057,15 @@
    "seen": {
     "beat_cle_cunningham": "2026-11-08T22:01:43+00:00",
     "espn_injuries": "2026-11-08T22:15:00+00:00"
+   }
+  },
+  "jarrett allen|QUESTIONABLE|2026-11-14": {
+   "first_src": "bsky_sportsethos",
+   "first_ts": "2026-11-14T18:23:34+00:00",
+   "seen": {
+    "bsky_rotowire": "2026-11-14T18:31:13+00:00",
+    "bsky_sportsethos": "2026-11-14T18:23:34+00:00",
+    "espn_injuries": "2026-11-14T18:31:00+00:00"
    }
   },
   "jaxson hayes|OUT|2026-11-13": {
@@ -1984,6 +1996,14 @@
     "espn_injuries": "2026-11-05T22:15:00+00:00"
    }
   },
+  "peyton watson|QUESTIONABLE|2026-11-14": {
+   "first_src": "beat_cle_cunningham",
+   "first_ts": "2026-11-14T18:16:07+00:00",
+   "seen": {
+    "beat_cle_cunningham": "2026-11-14T18:16:07+00:00",
+    "espn_injuries": "2026-11-14T18:38:00+00:00"
+   }
+  },
   "quentin grimes|OUT|2026-11-09": {
    "first_src": "espn_injuries",
    "first_ts": "2026-11-09T18:13:00+00:00",
@@ -2096,6 +2116,13 @@
     "rotowire_rss": "2026-11-11T04:36:00+00:00"
    }
   },
+  "saddiq bey|NEWS|2026-11-14": {
+   "first_src": "espn_news",
+   "first_ts": "2026-11-14T17:09:28+00:00",
+   "seen": {
+    "espn_news": "2026-11-14T17:09:28+00:00"
+   }
+  },
   "sam merrill|OUT|2026-11-06": {
    "first_src": "bsky_sportsethos",
    "first_ts": "2026-11-07T02:09:34+00:00",
@@ -2131,6 +2158,13 @@
    "first_ts": "2026-11-10T22:12:00+00:00",
    "seen": {
     "espn_injuries": "2026-11-10T22:12:00+00:00"
+   }
+  },
+  "sam merrill|OUT|2026-11-14": {
+   "first_src": "bsky_sportsethos",
+   "first_ts": "2026-11-14T18:28:11+00:00",
+   "seen": {
+    "bsky_sportsethos": "2026-11-14T18:28:11+00:00"
    }
   },
   "scoot henderson|STARTING|2026-10-31": {
@@ -2311,6 +2345,13 @@
     "espn_injuries": "2026-11-12T15:02:00+00:00"
    }
   },
+  "trendon watford|OUT|2026-11-14": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-14T17:58:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-14T17:58:00+00:00"
+   }
+  },
   "trevon brazile|STARTING|2026-10-26": {
    "first_src": "beat_den_benedetto",
    "first_ts": "2026-10-27T00:24:00+00:00",
@@ -2378,6 +2419,14 @@
     "espn_injuries": "2026-11-13T18:07:00+00:00"
    }
   },
+  "trey murphy|OUT|2026-11-14": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-14T17:53:00+00:00",
+   "seen": {
+    "bsky_sportsethos": "2026-11-14T17:58:16+00:00",
+    "espn_injuries": "2026-11-14T17:53:00+00:00"
+   }
+  },
   "ty jerome|OUT|2026-10-30": {
    "first_src": "rotowire_rss",
    "first_ts": "2026-10-31T04:24:00+00:00",
@@ -2391,6 +2440,16 @@
    "seen": {
     "bsky_sportsethos": "2026-10-31T23:21:21+00:00",
     "espn_injuries": "2026-10-31T23:23:00+00:00"
+   }
+  },
+  "ty jerome|OUT|2026-11-14": {
+   "first_src": "rotowire_rss",
+   "first_ts": "2026-11-14T11:45:00+00:00",
+   "seen": {
+    "bsky_rotowire": "2026-11-14T19:44:42+00:00",
+    "bsky_sportsethos": "2026-11-14T19:54:06+00:00",
+    "espn_injuries": "2026-11-14T19:44:00+00:00",
+    "rotowire_rss": "2026-11-14T11:45:00+00:00"
    }
   },
   "tyler herro|OUT|2026-11-09": {
