@@ -141,13 +141,6 @@
     "beat_phi_mizell": "2026-11-15T18:07:47+00:00"
    }
   },
-  "TOR|OUT|2026-10-25|an-earlyseason-reality-check-kawhi-is": {
-   "first_src": "beat_tor_lewenberg",
-   "first_ts": "2026-10-26T02:11:47+00:00",
-   "seen": {
-    "beat_tor_lewenberg": "2026-10-26T02:11:47+00:00"
-   }
-  },
   "TOR|OUT|2026-10-27|the-raptors-believed-they-would-be": {
    "first_src": "beat_tor_lewenberg",
    "first_ts": "2026-10-27T21:15:14+00:00",
@@ -211,13 +204,6 @@
    "seen": {
     "beat_phi_aaronson": "2026-11-05T22:00:32+00:00",
     "espn_injuries": "2026-11-05T22:18:00+00:00"
-   }
-  },
-  "adem bona|STARTING|2026-10-25": {
-   "first_src": "beat_phi_aaronson",
-   "first_ts": "2026-10-26T00:03:33+00:00",
-   "seen": {
-    "beat_phi_aaronson": "2026-10-26T00:03:33+00:00"
    }
   },
   "ajay mitchell|OUT|2026-11-11": {
@@ -1869,13 +1855,6 @@
     "bsky_sportsethos": "2026-11-12T18:06:22+00:00",
     "espn_injuries": "2026-11-12T18:07:00+00:00",
     "reddit_fantasybball": "2026-11-12T18:31:00+00:00"
-   }
-  },
-  "lebron james|STARTING|2026-10-25": {
-   "first_src": "beat_phi_aaronson",
-   "first_ts": "2026-10-26T01:08:51+00:00",
-   "seen": {
-    "beat_phi_aaronson": "2026-10-26T01:08:51+00:00"
    }
   },
   "luka doncic|OUT|2026-10-28": {
