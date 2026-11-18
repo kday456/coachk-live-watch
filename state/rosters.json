@@ -1,5 +1,5 @@
 {
- "date": "2026-11-17",
+ "date": "2026-11-18",
  "teams": {
   "BKN": [
    {
@@ -255,6 +255,10 @@
    {
     "id": "5107818",
     "name": "Isaac Jones"
+   },
+   {
+    "id": "4700852",
+    "name": "Chaz Lanier"
    },
    {
     "id": "5258459",
@@ -1010,10 +1014,6 @@
    }
   ],
   "UTAH": [
-   {
-    "id": "4433268",
-    "name": "Trey Alexander"
-   },
    {
     "id": "4873138",
     "name": "Ace Bailey"
