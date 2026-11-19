@@ -1,5 +1,5 @@
 {
- "date": "2026-11-18",
+ "date": "2026-11-19",
  "teams": {
   "BKN": [
    {
@@ -79,6 +79,10 @@
    {
     "id": "4066328",
     "name": "Jarrett Allen"
+   },
+   {
+    "id": "4702099",
+    "name": "Zack Austin"
    },
    {
     "id": "3934723",
@@ -1014,6 +1018,10 @@
    }
   ],
   "UTAH": [
+   {
+    "id": "4684682",
+    "name": "Jonas Aidoo"
+   },
    {
     "id": "4873138",
     "name": "Ace Bailey"
