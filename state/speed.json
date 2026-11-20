@@ -944,13 +944,6 @@
     "espn_injuries": "2026-11-02T18:19:00+00:00"
    }
   },
-  "ja morant|NEWS|2026-10-29": {
-   "first_src": "espn_news",
-   "first_ts": "2026-10-30T05:56:53+00:00",
-   "seen": {
-    "espn_news": "2026-10-30T05:56:53+00:00"
-   }
-  },
   "ja morant|NEWS|2026-10-30": {
    "first_src": "espn_news",
    "first_ts": "2026-10-30T20:36:51+00:00",
@@ -1289,6 +1282,13 @@
     "bsky_sportsethos": "2026-11-17T22:10:18+00:00",
     "espn_injuries": "2026-11-17T22:08:00+00:00",
     "espn_news": "2026-11-17T23:40:15+00:00"
+   }
+  },
+  "jaylen wells|NEWS|2026-11-18": {
+   "first_src": "rotowire_rss",
+   "first_ts": "2026-11-19T07:45:00+00:00",
+   "seen": {
+    "rotowire_rss": "2026-11-19T07:45:00+00:00"
    }
   },
   "jaylen wells|NEWS|2026-11-19": {
