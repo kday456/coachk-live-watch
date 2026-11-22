@@ -448,6 +448,13 @@
     "espn_injuries": "2026-11-20T23:12:00+00:00"
    }
   },
+  "cameron boozer|OUT|2026-11-22": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-22T15:09:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-22T15:09:00+00:00"
+   }
+  },
   "collin murrayboyles|OUT|2026-11-09": {
    "first_src": "bsky_sportsethos",
    "first_ts": "2026-11-09T22:57:27+00:00",
@@ -537,6 +544,13 @@
     "espn_news": "2026-11-21T16:12:35+00:00"
    }
   },
+  "dean wade|OUT|2026-11-22": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-22T15:06:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-22T15:06:00+00:00"
+   }
+  },
   "dean wade|STARTING|2026-11-15": {
    "first_src": "beat_phi_aaronson",
    "first_ts": "2026-11-15T16:20:51+00:00",
@@ -550,13 +564,6 @@
    "seen": {
     "bsky_sportsethos": "2026-11-13T18:09:34+00:00",
     "reddit_fantasybball": "2026-11-13T18:14:36+00:00"
-   }
-  },
-  "dejounte murray|OUT|2026-11-01": {
-   "first_src": "reddit_fantasybball",
-   "first_ts": "2026-11-01T16:50:38+00:00",
-   "seen": {
-    "reddit_fantasybball": "2026-11-01T16:50:38+00:00"
    }
   },
   "dejounte murray|OUT|2026-11-02": {
@@ -991,13 +998,6 @@
     "bsky_rotowire": "2026-11-03T02:22:03+00:00"
    }
   },
-  "jakob poeltl|OUT|2026-10-31": {
-   "first_src": "rotowire_rss",
-   "first_ts": "2026-11-01T05:45:00+00:00",
-   "seen": {
-    "rotowire_rss": "2026-11-01T05:45:00+00:00"
-   }
-  },
   "jakob poeltl|OUT|2026-11-01": {
    "first_src": "espn_injuries",
    "first_ts": "2026-11-02T01:44:00+00:00",
@@ -1107,13 +1107,6 @@
     "reddit_fantasybball": "2026-11-05T01:56:13+00:00"
    }
   },
-  "jarrett allen|NEWS|2026-10-31": {
-   "first_src": "espn_news",
-   "first_ts": "2026-11-01T02:31:45+00:00",
-   "seen": {
-    "espn_news": "2026-11-01T02:31:45+00:00"
-   }
-  },
   "jarrett allen|NEWS|2026-11-04": {
    "first_src": "espn_injuries",
    "first_ts": "2026-11-05T03:36:00+00:00",
@@ -1209,6 +1202,13 @@
     "bsky_rotowire": "2026-11-20T23:14:21+00:00",
     "bsky_sportsethos": "2026-11-20T23:46:24+00:00",
     "espn_injuries": "2026-11-20T23:14:00+00:00"
+   }
+  },
+  "javon small|OUT|2026-11-22": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-22T15:09:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-22T15:09:00+00:00"
    }
   },
   "javonte green|STARTING|2026-11-17": {
@@ -1385,13 +1385,6 @@
     "espn_injuries": "2026-11-17T22:15:00+00:00"
    }
   },
-  "jaylon tyson|OUT|2026-10-31": {
-   "first_src": "espn_injuries",
-   "first_ts": "2026-11-01T04:53:00+00:00",
-   "seen": {
-    "espn_injuries": "2026-11-01T04:53:00+00:00"
-   }
-  },
   "jaylon tyson|OUT|2026-11-01": {
    "first_src": "espn_injuries",
    "first_ts": "2026-11-01T21:50:00+00:00",
@@ -1502,6 +1495,13 @@
     "espn_injuries": "2026-11-21T08:08:00+00:00"
    }
   },
+  "jerami grant|OUT|2026-11-22": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-22T15:08:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-22T15:08:00+00:00"
+   }
+  },
   "joel embiid|MINUTES LIMIT|2026-11-02": {
    "first_src": "beat_phi_aaronson",
    "first_ts": "2026-11-03T03:50:53+00:00",
@@ -1553,13 +1553,6 @@
    "first_ts": "2026-11-10T02:53:30+00:00",
    "seen": {
     "beat_det_sankofa": "2026-11-10T02:53:30+00:00"
-   }
-  },
-  "jordan poole|OUT|2026-10-31": {
-   "first_src": "espn_injuries",
-   "first_ts": "2026-11-01T04:53:00+00:00",
-   "seen": {
-    "espn_injuries": "2026-11-01T04:53:00+00:00"
    }
   },
   "jordan poole|OUT|2026-11-01": {
@@ -2519,13 +2512,6 @@
     "espn_injuries": "2026-11-19T14:45:00+00:00"
    }
   },
-  "saddiq bey|NEWS|2026-11-01": {
-   "first_src": "rotowire_rss",
-   "first_ts": "2026-11-01T07:10:00+00:00",
-   "seen": {
-    "rotowire_rss": "2026-11-01T07:10:00+00:00"
-   }
-  },
   "saddiq bey|NEWS|2026-11-06": {
    "first_src": "espn_news",
    "first_ts": "2026-11-06T18:17:40+00:00",
@@ -2890,6 +2876,13 @@
     "espn_injuries": "2026-11-21T18:22:00+00:00"
    }
   },
+  "trey murphy|OUT|2026-11-22": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-22T15:07:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-22T15:07:00+00:00"
+   }
+  },
   "ty jerome|OUT|2026-11-14": {
    "first_src": "rotowire_rss",
    "first_ts": "2026-11-14T11:45:00+00:00",
@@ -3188,6 +3181,13 @@
    "seen": {
     "bsky_sportsethos": "2026-11-22T00:34:49+00:00",
     "espn_injuries": "2026-11-22T00:39:00+00:00"
+   }
+  },
+  "zion williamson|OUT|2026-11-22": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-22T15:07:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-22T15:07:00+00:00"
    }
   }
  }
