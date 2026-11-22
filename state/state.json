@@ -68,27 +68,6 @@
     "5:38"
    ]
   },
-  "401909999": {
-   "final_seen_at": null,
-   "minutes": {},
-   "progress": [
-    4,
-    "5:37"
-   ]
-  },
-  "401910001": {
-   "final_seen_at": null,
-   "minutes": {
-    "demar derozan": {
-     "min": 8,
-     "stall": 0
-    }
-   },
-   "progress": [
-    2,
-    "0.0"
-   ]
-  },
   "401910003": {
    "final_seen_at": null,
    "minutes": {},
@@ -139,6 +118,45 @@
     1,
     "2:14"
    ]
+  },
+  "401910024": {
+   "final_seen_at": null,
+   "minutes": {
+    "ja morant": {
+     "min": 0,
+     "stall": 0
+    }
+   },
+   "progress": [
+    4,
+    "11:12"
+   ]
+  },
+  "401910026": {
+   "final_seen_at": null,
+   "minutes": {
+    "jaylen wells": {
+     "min": 15,
+     "stall": 0
+    }
+   },
+   "progress": [
+    3,
+    "12:00"
+   ]
+  },
+  "401910027": {
+   "final_seen_at": null,
+   "minutes": {
+    "saddiq bey": {
+     "min": 16,
+     "stall": 0
+    }
+   },
+   "progress": [
+    2,
+    "0.0"
+   ]
   }
  },
  "last_start": {
@@ -163,7 +181,7 @@
    "started": false
   },
   "aj johnson": {
-   "game": "401909310",
+   "game": "401910027",
    "prev_started": false,
    "started": false
   },
@@ -198,9 +216,9 @@
    "started": false
   },
   "andre drummond": {
-   "game": "401910002",
+   "game": "401910024",
    "prev_started": false,
-   "started": false
+   "started": true
   },
   "andrew nembhard": {
    "game": "401909307",
@@ -233,7 +251,7 @@
    "started": false
   },
   "branden carlson": {
-   "game": "401910003",
+   "game": "401910024",
    "prev_started": false,
    "started": false
   },
@@ -258,9 +276,9 @@
    "started": false
   },
   "cam spencer": {
-   "game": "401910007",
-   "prev_started": false,
-   "started": true
+   "game": "401910026",
+   "prev_started": true,
+   "started": false
   },
   "cam whitmore": {
    "game": "401909931",
@@ -288,7 +306,7 @@
    "started": false
   },
   "cedric coward": {
-   "game": "401910007",
+   "game": "401910026",
    "prev_started": true,
    "started": true
   },
@@ -333,12 +351,12 @@
    "started": false
   },
   "dalton knecht": {
-   "game": "401909940",
+   "game": "401910024",
    "prev_started": false,
    "started": false
   },
   "damian lillard": {
-   "game": "401910003",
+   "game": "401910024",
    "prev_started": true,
    "started": true
   },
@@ -358,7 +376,7 @@
    "started": true
   },
   "deandre jordan": {
-   "game": "401909310",
+   "game": "401910027",
    "prev_started": false,
    "started": false
   },
@@ -373,17 +391,17 @@
    "started": false
   },
   "deni avdija": {
-   "game": "401910003",
-   "prev_started": true,
-   "started": false
+   "game": "401910024",
+   "prev_started": false,
+   "started": true
   },
   "derik queen": {
-   "game": "401909310",
+   "game": "401910027",
    "prev_started": false,
-   "started": false
+   "started": true
   },
   "donovan clingan": {
-   "game": "401910003",
+   "game": "401910024",
    "prev_started": true,
    "started": true
   },
@@ -413,7 +431,7 @@
    "started": false
   },
   "herbert jones": {
-   "game": "401909310",
+   "game": "401910027",
    "prev_started": true,
    "started": true
   },
@@ -428,9 +446,9 @@
    "started": true
   },
   "isaiah stewart": {
-   "game": "401909300",
-   "prev_started": false,
-   "started": true
+   "game": "401910026",
+   "prev_started": true,
+   "started": false
   },
   "ivica zubac": {
    "game": "401909307",
@@ -438,7 +456,7 @@
    "started": true
   },
   "ja morant": {
-   "game": "401910003",
+   "game": "401910024",
    "prev_started": false,
    "started": false
   },
@@ -458,9 +476,9 @@
    "started": false
   },
   "jahmai mashack": {
-   "game": "401910007",
+   "game": "401910026",
    "prev_started": false,
-   "started": false
+   "started": true
   },
   "jake laravia": {
    "game": "401909986",
@@ -478,7 +496,7 @@
    "started": true
   },
   "jalen brunson": {
-   "game": "401910002",
+   "game": "401910024",
    "prev_started": true,
    "started": true
   },
@@ -503,7 +521,7 @@
    "started": true
   },
   "james wiseman": {
-   "game": "401910002",
+   "game": "401910024",
    "prev_started": false,
    "started": false
   },
@@ -523,7 +541,7 @@
    "started": true
   },
   "jaron pierre": {
-   "game": "401909310",
+   "game": "401910027",
    "prev_started": false,
    "started": false
   },
@@ -548,7 +566,7 @@
    "started": false
   },
   "jaylen wells": {
-   "game": "401910007",
+   "game": "401910026",
    "prev_started": true,
    "started": true
   },
@@ -563,9 +581,9 @@
    "started": true
   },
   "jayson kent": {
-   "game": "401910003",
-   "prev_started": false,
-   "started": true
+   "game": "401910024",
+   "prev_started": true,
+   "started": false
   },
   "jerami grant": {
    "game": "401910007",
@@ -573,12 +591,12 @@
    "started": false
   },
   "jeremiah fears": {
-   "game": "401909310",
+   "game": "401910027",
    "prev_started": true,
    "started": true
   },
   "john tonje": {
-   "game": "401910003",
+   "game": "401910024",
    "prev_started": false,
    "started": false
   },
@@ -588,12 +606,12 @@
    "started": false
   },
   "jordan poole": {
-   "game": "401909310",
+   "game": "401910027",
    "prev_started": false,
    "started": false
   },
   "jose alvarado": {
-   "game": "401910002",
+   "game": "401910024",
    "prev_started": false,
    "started": false
   },
@@ -603,7 +621,7 @@
    "started": false
   },
   "josh hart": {
-   "game": "401910002",
+   "game": "401910024",
    "prev_started": true,
    "started": true
   },
@@ -618,7 +636,7 @@
    "started": false
   },
   "jrue holiday": {
-   "game": "401910003",
+   "game": "401910024",
    "prev_started": false,
    "started": false
   },
@@ -638,17 +656,17 @@
    "started": true
   },
   "karim lopez": {
-   "game": "401910007",
+   "game": "401910026",
    "prev_started": false,
    "started": false
   },
   "karlanthony towns": {
-   "game": "401910002",
+   "game": "401910024",
    "prev_started": true,
-   "started": true
+   "started": false
   },
   "karlo matkovic": {
-   "game": "401909310",
+   "game": "401910027",
    "prev_started": false,
    "started": false
   },
@@ -693,7 +711,7 @@
    "started": false
   },
   "kris murray": {
-   "game": "401910007",
+   "game": "401910026",
    "prev_started": false,
    "started": false
   },
@@ -703,9 +721,9 @@
    "started": false
   },
   "landry shamet": {
-   "game": "401910002",
+   "game": "401910024",
    "prev_started": false,
-   "started": false
+   "started": true
   },
   "larry nance": {
    "game": "401909307",
@@ -758,7 +776,7 @@
    "started": false
   },
   "micah potter": {
-   "game": "401910003",
+   "game": "401910024",
    "prev_started": false,
    "started": false
   },
@@ -768,7 +786,7 @@
    "started": true
   },
   "mikal bridges": {
-   "game": "401910002",
+   "game": "401910024",
    "prev_started": true,
    "started": true
   },
@@ -778,12 +796,12 @@
    "started": false
   },
   "miles mcbride": {
-   "game": "401910002",
+   "game": "401910024",
    "prev_started": false,
    "started": false
   },
   "mohamed diawara": {
-   "game": "401910002",
+   "game": "401910024",
    "prev_started": false,
    "started": false
   },
@@ -833,7 +851,7 @@
    "started": true
   },
   "oliviermaxence prosper": {
-   "game": "401910007",
+   "game": "401910026",
    "prev_started": false,
    "started": false
   },
@@ -843,7 +861,7 @@
    "started": false
   },
   "pacome dadiet": {
-   "game": "401910002",
+   "game": "401910024",
    "prev_started": false,
    "started": false
   },
@@ -868,7 +886,7 @@
    "started": false
   },
   "quinten post": {
-   "game": "401910007",
+   "game": "401910026",
    "prev_started": false,
    "started": false
   },
@@ -883,7 +901,7 @@
    "started": true
   },
   "robert williams": {
-   "game": "401910003",
+   "game": "401910024",
    "prev_started": false,
    "started": false
   },
@@ -893,7 +911,7 @@
    "started": false
   },
   "saddiq bey": {
-   "game": "401909310",
+   "game": "401910027",
    "prev_started": true,
    "started": true
   },
@@ -908,7 +926,7 @@
    "started": false
   },
   "scoot henderson": {
-   "game": "401910003",
+   "game": "401910024",
    "prev_started": false,
    "started": false
   },
@@ -923,7 +941,7 @@
    "started": true
   },
   "sidy cissoko": {
-   "game": "401910003",
+   "game": "401910024",
    "prev_started": true,
    "started": true
   },
@@ -933,7 +951,7 @@
    "started": false
   },
   "taylor hendricks": {
-   "game": "401910007",
+   "game": "401910026",
    "prev_started": false,
    "started": false
   },
@@ -958,7 +976,7 @@
    "started": false
   },
   "toumani camara": {
-   "game": "401910003",
+   "game": "401910024",
    "prev_started": true,
    "started": true
   },
@@ -988,12 +1006,12 @@
    "started": false
   },
   "ty jerome": {
-   "game": "401909300",
+   "game": "401910026",
    "prev_started": true,
    "started": true
   },
   "tyler kolek": {
-   "game": "401910002",
+   "game": "401910024",
    "prev_started": false,
    "started": false
   },
@@ -1028,17 +1046,17 @@
    "started": true
   },
   "yang hansen": {
-   "game": "401910003",
+   "game": "401910024",
    "prev_started": false,
    "started": false
   },
   "yves missi": {
-   "game": "401909310",
+   "game": "401910027",
    "prev_started": true,
    "started": true
   },
   "zach edey": {
-   "game": "401910007",
+   "game": "401910026",
    "prev_started": true,
    "started": true
   },
@@ -1058,9 +1076,9 @@
    "started": false
   },
   "zion williamson": {
-   "game": "401909310",
+   "game": "401910027",
    "prev_started": true,
-   "started": true
+   "started": false
   }
  },
  "news_polled": [
@@ -1087,9 +1105,6 @@
   "reddit_fantasybball"
  ],
  "news_seen": {
-  "beat_cle_cunningham|at://did:plc:g6ifxgrzi22eaemi4lc5pyr2/app.bsky.feed.post/3n233kkq6c22d": "2026-11-19T01:06:28+00:00",
-  "beat_cle_cunningham|at://did:plc:g6ifxgrzi22eaemi4lc5pyr2/app.bsky.feed.post/3n234eygkf22d": "2026-11-19T01:06:28+00:00",
-  "beat_cle_cunningham|at://did:plc:g6ifxgrzi22eaemi4lc5pyr2/app.bsky.feed.post/3n234falwnc2d": "2026-11-19T01:06:28+00:00",
   "beat_cle_cunningham|at://did:plc:g6ifxgrzi22eaemi4lc5pyr2/app.bsky.feed.post/3n23ewtk64k2d": "2026-11-19T17:40:06+00:00",
   "beat_cle_cunningham|at://did:plc:g6ifxgrzi22eaemi4lc5pyr2/app.bsky.feed.post/3n23h3cang22d": "2026-11-19T17:40:06+00:00",
   "beat_cle_cunningham|at://did:plc:g6ifxgrzi22eaemi4lc5pyr2/app.bsky.feed.post/3n23h53l5jc2d": "2026-11-19T17:40:06+00:00",
@@ -1097,31 +1112,20 @@
   "beat_cle_cunningham|at://did:plc:g6ifxgrzi22eaemi4lc5pyr2/app.bsky.feed.post/3n2aemkipvc2d": "2026-11-21T02:36:07+00:00",
   "beat_cle_cunningham|at://did:plc:g6ifxgrzi22eaemi4lc5pyr2/app.bsky.feed.post/3n2almyytok2d": "2026-11-21T22:17:50+00:00",
   "beat_cle_cunningham|at://did:plc:g6ifxgrzi22eaemi4lc5pyr2/app.bsky.feed.post/3n2c46ybxw227": "2026-11-21T22:17:50+00:00",
-  "beat_cle_cunningham|at://did:plc:g6ifxgrzi22eaemi4lc5pyr2/app.bsky.feed.post/3n2cuuwhx7227": "2026-11-19T01:06:28+00:00",
-  "beat_cle_cunningham|at://did:plc:g6ifxgrzi22eaemi4lc5pyr2/app.bsky.feed.post/3n2cwwb35mc27": "2026-11-19T01:06:28+00:00",
-  "beat_cle_cunningham|at://did:plc:g6ifxgrzi22eaemi4lc5pyr2/app.bsky.feed.post/3n2czaodgs227": "2026-11-19T01:06:28+00:00",
-  "beat_cle_cunningham|at://did:plc:g6ifxgrzi22eaemi4lc5pyr2/app.bsky.feed.post/3n2czjm5yak27": "2026-11-19T01:06:28+00:00",
-  "beat_cle_cunningham|at://did:plc:g6ifxgrzi22eaemi4lc5pyr2/app.bsky.feed.post/3n2czljgpfs27": "2026-11-19T01:06:28+00:00",
+  "beat_cle_cunningham|at://did:plc:g6ifxgrzi22eaemi4lc5pyr2/app.bsky.feed.post/3n2clojkcus27": "2026-11-22T02:19:51+00:00",
   "beat_cle_cunningham|at://did:plc:g6ifxgrzi22eaemi4lc5pyr2/app.bsky.feed.post/3n2ezksqyz22y": "2026-11-19T17:40:06+00:00",
   "beat_cle_cunningham|at://did:plc:g6ifxgrzi22eaemi4lc5pyr2/app.bsky.feed.post/3n2hqxpop7c2y": "2026-11-20T13:23:11+00:00",
   "beat_cle_cunningham|at://did:plc:g6ifxgrzi22eaemi4lc5pyr2/app.bsky.feed.post/3n2huzte3v22y": "2026-11-20T13:23:11+00:00",
   "beat_cle_cunningham|at://did:plc:g6ifxgrzi22eaemi4lc5pyr2/app.bsky.feed.post/3n2hyy342z22y": "2026-11-20T13:23:11+00:00",
   "beat_cle_cunningham|at://did:plc:g6ifxgrzi22eaemi4lc5pyr2/app.bsky.feed.post/3n2hyyyzrik2y": "2026-11-20T13:23:11+00:00",
   "beat_cle_cunningham|at://did:plc:g6ifxgrzi22eaemi4lc5pyr2/app.bsky.feed.post/3n2jg6y2tlc2y": "2026-11-21T02:36:07+00:00",
-  "beat_cle_cunningham|at://did:plc:g6ifxgrzi22eaemi4lc5pyr2/app.bsky.feed.post/3n2mrudyvvs2y": "2026-11-19T01:06:28+00:00",
+  "beat_cle_cunningham|at://did:plc:g6ifxgrzi22eaemi4lc5pyr2/app.bsky.feed.post/3n2m6xnfqac2r": "2026-11-22T02:19:51+00:00",
   "beat_cle_cunningham|at://did:plc:g6ifxgrzi22eaemi4lc5pyr2/app.bsky.feed.post/3n2mvkg2tck2y": "2026-11-19T17:40:06+00:00",
   "beat_cle_cunningham|at://did:plc:g6ifxgrzi22eaemi4lc5pyr2/app.bsky.feed.post/3n2mzts26pc2y": "2026-11-19T17:40:06+00:00",
   "beat_cle_cunningham|at://did:plc:g6ifxgrzi22eaemi4lc5pyr2/app.bsky.feed.post/3n2ruiwyqxc2b": "2026-11-21T02:36:07+00:00",
   "beat_cle_cunningham|at://did:plc:g6ifxgrzi22eaemi4lc5pyr2/app.bsky.feed.post/3n2rviiwto22b": "2026-11-21T02:36:07+00:00",
   "beat_cle_cunningham|at://did:plc:g6ifxgrzi22eaemi4lc5pyr2/app.bsky.feed.post/3n2s25kovas2b": "2026-11-21T02:36:07+00:00",
   "beat_cle_cunningham|at://did:plc:g6ifxgrzi22eaemi4lc5pyr2/app.bsky.feed.post/3n2s47mc2h22b": "2026-11-21T17:28:24+00:00",
-  "beat_den_benedetto|at://did:plc:gj7ikdemlrvserzx6d2fn6k6/app.bsky.feed.post/3n2cqxc3q422w": "2026-11-19T01:06:28+00:00",
-  "beat_den_benedetto|at://did:plc:gj7ikdemlrvserzx6d2fn6k6/app.bsky.feed.post/3n2cr6mtrts2w": "2026-11-19T01:06:28+00:00",
-  "beat_den_benedetto|at://did:plc:gj7ikdemlrvserzx6d2fn6k6/app.bsky.feed.post/3n2crrczvp22w": "2026-11-19T01:06:28+00:00",
-  "beat_den_benedetto|at://did:plc:gj7ikdemlrvserzx6d2fn6k6/app.bsky.feed.post/3n2ctgqrrxs2w": "2026-11-19T01:06:28+00:00",
-  "beat_den_benedetto|at://did:plc:gj7ikdemlrvserzx6d2fn6k6/app.bsky.feed.post/3n2cw4pa7v22w": "2026-11-19T01:06:28+00:00",
-  "beat_den_benedetto|at://did:plc:gj7ikdemlrvserzx6d2fn6k6/app.bsky.feed.post/3n2cx2vetw22w": "2026-11-19T01:06:28+00:00",
-  "beat_den_benedetto|at://did:plc:gj7ikdemlrvserzx6d2fn6k6/app.bsky.feed.post/3n2cya7nbp22w": "2026-11-19T01:06:28+00:00",
   "beat_den_benedetto|at://did:plc:gj7ikdemlrvserzx6d2fn6k6/app.bsky.feed.post/3n2i5viy4622i": "2026-11-21T02:36:07+00:00",
   "beat_den_benedetto|at://did:plc:gj7ikdemlrvserzx6d2fn6k6/app.bsky.feed.post/3n2i6d2brdk2i": "2026-11-21T02:36:07+00:00",
   "beat_den_benedetto|at://did:plc:gj7ikdemlrvserzx6d2fn6k6/app.bsky.feed.post/3n2i6ruhgxc2i": "2026-11-21T02:36:07+00:00",
@@ -1160,10 +1164,6 @@
   "beat_den_benedetto|at://did:plc:gj7ikdemlrvserzx6d2fn6k6/app.bsky.feed.post/3n2sdhhtqjc2f": "2026-11-21T17:28:24+00:00",
   "beat_den_benedetto|at://did:plc:gj7ikdemlrvserzx6d2fn6k6/app.bsky.feed.post/3n2sdkbrt5k2f": "2026-11-21T17:28:24+00:00",
   "beat_den_benedetto|at://did:plc:gj7ikdemlrvserzx6d2fn6k6/app.bsky.feed.post/3n2sf5wdpu22f": "2026-11-21T17:28:24+00:00",
-  "beat_det_sankofa|at://did:plc:ozrhqae34vzv6mso2hsym65i/app.bsky.feed.post/3n2mc3q6b2c2p": "2026-11-19T01:06:28+00:00",
-  "beat_det_sankofa|at://did:plc:ozrhqae34vzv6mso2hsym65i/app.bsky.feed.post/3n2msr7bxcs2p": "2026-11-19T01:06:28+00:00",
-  "beat_det_sankofa|at://did:plc:ozrhqae34vzv6mso2hsym65i/app.bsky.feed.post/3n2mt3hj5u22p": "2026-11-19T01:06:28+00:00",
-  "beat_det_sankofa|at://did:plc:ozrhqae34vzv6mso2hsym65i/app.bsky.feed.post/3n2mumdosnk2w": "2026-11-19T01:06:28+00:00",
   "beat_det_sankofa|at://did:plc:ozrhqae34vzv6mso2hsym65i/app.bsky.feed.post/3n2mvlvenos2p": "2026-11-19T17:40:06+00:00",
   "beat_det_sankofa|at://did:plc:ozrhqae34vzv6mso2hsym65i/app.bsky.feed.post/3n2mweznskk2p": "2026-11-19T17:40:06+00:00",
   "beat_det_sankofa|at://did:plc:ozrhqae34vzv6mso2hsym65i/app.bsky.feed.post/3n2mwkmzlfs2p": "2026-11-19T17:40:06+00:00",
@@ -1212,7 +1212,6 @@
   "beat_det_sankofa|at://did:plc:ozrhqae34vzv6mso2hsym65i/app.bsky.feed.post/3n2s5gum3c22e": "2026-11-21T17:28:24+00:00",
   "beat_det_sankofa|at://did:plc:ozrhqae34vzv6mso2hsym65i/app.bsky.feed.post/3n2s6iq5oxc2e": "2026-11-21T17:28:24+00:00",
   "beat_det_sankofa|at://did:plc:ozrhqae34vzv6mso2hsym65i/app.bsky.feed.post/3n2sbfo4a2k2n": "2026-11-21T17:28:24+00:00",
-  "beat_ind_agness|at://did:plc:6ahv2jk7wea2fql74oiisng6/app.bsky.feed.post/3n2crjrsvv22k": "2026-11-19T01:06:28+00:00",
   "beat_ind_agness|at://did:plc:6ahv2jk7wea2fql74oiisng6/app.bsky.feed.post/3n2enuxqypc2d": "2026-11-19T17:40:06+00:00",
   "beat_ind_agness|at://did:plc:6ahv2jk7wea2fql74oiisng6/app.bsky.feed.post/3n2eotjrkws2d": "2026-11-19T17:40:06+00:00",
   "beat_ind_agness|at://did:plc:6ahv2jk7wea2fql74oiisng6/app.bsky.feed.post/3n2epnzyvu22l": "2026-11-19T17:40:06+00:00",
@@ -1231,14 +1230,14 @@
   "beat_ind_agness|at://did:plc:6ahv2jk7wea2fql74oiisng6/app.bsky.feed.post/3n2kdax2wdc2i": "2026-11-21T22:17:50+00:00",
   "beat_ind_agness|at://did:plc:6ahv2jk7wea2fql74oiisng6/app.bsky.feed.post/3n2kezjgvl226": "2026-11-21T22:17:50+00:00",
   "beat_ind_agness|at://did:plc:6ahv2jk7wea2fql74oiisng6/app.bsky.feed.post/3n2khleqtfk2n": "2026-11-21T22:17:50+00:00",
-  "beat_ind_agness|at://did:plc:6ahv2jk7wea2fql74oiisng6/app.bsky.feed.post/3n2mawatxlc2o": "2026-11-19T01:06:28+00:00",
-  "beat_ind_agness|at://did:plc:6ahv2jk7wea2fql74oiisng6/app.bsky.feed.post/3n2mbayuh2s2e": "2026-11-19T01:06:28+00:00",
+  "beat_ind_agness|at://did:plc:6ahv2jk7wea2fql74oiisng6/app.bsky.feed.post/3n2kr63ip7c2y": "2026-11-22T02:19:51+00:00",
   "beat_ind_agness|at://did:plc:6ahv2jk7wea2fql74oiisng6/app.bsky.feed.post/3n2p3b3t65s2f": "2026-11-19T23:49:44+00:00",
   "beat_ind_agness|at://did:plc:6ahv2jk7wea2fql74oiisng6/app.bsky.feed.post/3n2pkak4iyk2c": "2026-11-20T04:24:39+00:00",
   "beat_ind_agness|at://did:plc:6ahv2jk7wea2fql74oiisng6/app.bsky.feed.post/3n2rok53yjk2f": "2026-11-21T02:36:07+00:00",
   "beat_ind_agness|at://did:plc:6ahv2jk7wea2fql74oiisng6/app.bsky.feed.post/3n2rughiiws2d": "2026-11-21T02:36:07+00:00",
   "beat_ind_agness|at://did:plc:6ahv2jk7wea2fql74oiisng6/app.bsky.feed.post/3n2s3xnh4gs2x": "2026-11-21T17:28:24+00:00",
   "beat_ind_agness|at://did:plc:6ahv2jk7wea2fql74oiisng6/app.bsky.feed.post/3n2s4yjhafc2r": "2026-11-21T17:28:24+00:00",
+  "beat_ind_agness|at://did:plc:6ahv2jk7wea2fql74oiisng6/app.bsky.feed.post/3n2u5mjvxpc2l": "2026-11-22T02:19:51+00:00",
   "beat_ind_dopirak|at://did:plc:fnncdwwdgq3tngihtxq36ohv/app.bsky.feed.post/3mzepduynzc2u": "2026-11-21T02:36:07+00:00",
   "beat_ind_dopirak|at://did:plc:fnncdwwdgq3tngihtxq36ohv/app.bsky.feed.post/3mzgelgpa722u": "2026-11-21T02:36:07+00:00",
   "beat_ind_dopirak|at://did:plc:fnncdwwdgq3tngihtxq36ohv/app.bsky.feed.post/3mzjq64exhs2h": "2026-11-19T17:40:06+00:00",
@@ -1254,15 +1253,11 @@
   "beat_ind_dopirak|at://did:plc:fnncdwwdgq3tngihtxq36ohv/app.bsky.feed.post/3mzwgvzh7kk26": "2026-11-21T02:36:07+00:00",
   "beat_ind_dopirak|at://did:plc:fnncdwwdgq3tngihtxq36ohv/app.bsky.feed.post/3mzwplkaibc26": "2026-11-21T02:36:07+00:00",
   "beat_ind_dopirak|at://did:plc:fnncdwwdgq3tngihtxq36ohv/app.bsky.feed.post/3mzxrq26mqc26": "2026-11-21T02:36:07+00:00",
-  "beat_ind_dopirak|at://did:plc:fnncdwwdgq3tngihtxq36ohv/app.bsky.feed.post/3n234bfn3m22i": "2026-11-19T01:06:28+00:00",
-  "beat_ind_dopirak|at://did:plc:fnncdwwdgq3tngihtxq36ohv/app.bsky.feed.post/3n234o7z56s2i": "2026-11-19T01:06:28+00:00",
-  "beat_ind_dopirak|at://did:plc:fnncdwwdgq3tngihtxq36ohv/app.bsky.feed.post/3n23a25fpm22i": "2026-11-19T01:06:28+00:00",
   "beat_ind_dopirak|at://did:plc:fnncdwwdgq3tngihtxq36ohv/app.bsky.feed.post/3n23bshafq22i": "2026-11-19T17:40:06+00:00",
   "beat_ind_dopirak|at://did:plc:fnncdwwdgq3tngihtxq36ohv/app.bsky.feed.post/3n23bvovl5c2i": "2026-11-19T17:40:06+00:00",
   "beat_ind_dopirak|at://did:plc:fnncdwwdgq3tngihtxq36ohv/app.bsky.feed.post/3n23byx24qk2i": "2026-11-19T17:40:06+00:00",
   "beat_ind_dopirak|at://did:plc:fnncdwwdgq3tngihtxq36ohv/app.bsky.feed.post/3n23c34pfns2i": "2026-11-19T17:40:06+00:00",
   "beat_ind_dopirak|at://did:plc:fnncdwwdgq3tngihtxq36ohv/app.bsky.feed.post/3n25lj7zpsk2i": "2026-11-20T04:24:39+00:00",
-  "beat_ind_dopirak|at://did:plc:fnncdwwdgq3tngihtxq36ohv/app.bsky.feed.post/3n2mtfost3c2q": "2026-11-19T01:06:28+00:00",
   "beat_ind_dopirak|at://did:plc:fnncdwwdgq3tngihtxq36ohv/app.bsky.feed.post/3n2muygkh3k2q": "2026-11-19T17:40:06+00:00",
   "beat_ind_dopirak|at://did:plc:fnncdwwdgq3tngihtxq36ohv/app.bsky.feed.post/3n2mv2odfzc2q": "2026-11-19T17:40:06+00:00",
   "beat_ind_dopirak|at://did:plc:fnncdwwdgq3tngihtxq36ohv/app.bsky.feed.post/3n2n2e4dlsk2q": "2026-11-19T17:40:06+00:00",
@@ -1285,6 +1280,7 @@
   "beat_mem_brown|at://did:plc:vvcbla2mkahsoyo3r46ajnra/app.bsky.feed.post/3myskme4sic26": "2026-11-21T02:36:07+00:00",
   "beat_mem_brown|at://did:plc:vvcbla2mkahsoyo3r46ajnra/app.bsky.feed.post/3myszam7rgc22": "2026-11-21T02:36:07+00:00",
   "beat_mem_brown|at://did:plc:vvcbla2mkahsoyo3r46ajnra/app.bsky.feed.post/3mz2z3xnpls2f": "2026-11-21T02:36:07+00:00",
+  "beat_mem_brown|at://did:plc:vvcbla2mkahsoyo3r46ajnra/app.bsky.feed.post/3mzb5wsmeds2a": "2026-11-22T02:19:51+00:00",
   "beat_mem_brown|at://did:plc:vvcbla2mkahsoyo3r46ajnra/app.bsky.feed.post/3mze5jkhddc2v": "2026-11-21T02:36:07+00:00",
   "beat_mem_brown|at://did:plc:vvcbla2mkahsoyo3r46ajnra/app.bsky.feed.post/3mzykl7t3p22y": "2026-11-21T22:17:50+00:00",
   "beat_mem_brown|at://did:plc:vvcbla2mkahsoyo3r46ajnra/app.bsky.feed.post/3n2c72cujls2n": "2026-11-21T22:17:50+00:00",
@@ -1308,7 +1304,6 @@
   "beat_phi_aaronson|at://did:plc:rrh5me656wmncolysevqhc4y/app.bsky.feed.post/3n2jbeqi5ik2t": "2026-11-21T02:36:07+00:00",
   "beat_phi_aaronson|at://did:plc:rrh5me656wmncolysevqhc4y/app.bsky.feed.post/3n2jmpubhj22f": "2026-11-21T02:36:07+00:00",
   "beat_phi_aaronson|at://did:plc:rrh5me656wmncolysevqhc4y/app.bsky.feed.post/3n2jp7uqifs2f": "2026-11-21T02:36:07+00:00",
-  "beat_phi_aaronson|at://did:plc:rrh5me656wmncolysevqhc4y/app.bsky.feed.post/3n2mnxjkjis2j": "2026-11-19T01:06:28+00:00",
   "beat_phi_aaronson|at://did:plc:rrh5me656wmncolysevqhc4y/app.bsky.feed.post/3n2n23rfsvc2b": "2026-11-19T17:40:06+00:00",
   "beat_phi_aaronson|at://did:plc:rrh5me656wmncolysevqhc4y/app.bsky.feed.post/3n2n2mwffy22b": "2026-11-19T17:40:06+00:00",
   "beat_phi_aaronson|at://did:plc:rrh5me656wmncolysevqhc4y/app.bsky.feed.post/3n2oarrteo22j": "2026-11-19T17:40:06+00:00",
@@ -1350,17 +1345,6 @@
   "beat_phi_mizell|at://did:plc:hl273o7bfegotspjc5dqfzmq/app.bsky.feed.post/3n2hyxwnsbk2g": "2026-11-20T13:23:11+00:00",
   "beat_phi_mizell|at://did:plc:hl273o7bfegotspjc5dqfzmq/app.bsky.feed.post/3n2i7vemols2g": "2026-11-21T02:36:07+00:00",
   "beat_phi_mizell|at://did:plc:hl273o7bfegotspjc5dqfzmq/app.bsky.feed.post/3n2j6d7iun227": "2026-11-21T02:36:07+00:00",
-  "beat_phi_mizell|at://did:plc:hl273o7bfegotspjc5dqfzmq/app.bsky.feed.post/3n2mnlrxyq22h": "2026-11-19T01:06:28+00:00",
-  "beat_phi_mizell|at://did:plc:hl273o7bfegotspjc5dqfzmq/app.bsky.feed.post/3n2morxoj5c2h": "2026-11-19T01:06:28+00:00",
-  "beat_phi_mizell|at://did:plc:hl273o7bfegotspjc5dqfzmq/app.bsky.feed.post/3n2mpnxfnts2h": "2026-11-19T01:06:28+00:00",
-  "beat_phi_mizell|at://did:plc:hl273o7bfegotspjc5dqfzmq/app.bsky.feed.post/3n2msdd3c6c2g": "2026-11-19T01:06:28+00:00",
-  "beat_phi_mizell|at://did:plc:hl273o7bfegotspjc5dqfzmq/app.bsky.feed.post/3n2msiisvyk2g": "2026-11-19T01:06:28+00:00",
-  "beat_phi_mizell|at://did:plc:hl273o7bfegotspjc5dqfzmq/app.bsky.feed.post/3n2mslgpel22g": "2026-11-19T01:06:28+00:00",
-  "beat_phi_mizell|at://did:plc:hl273o7bfegotspjc5dqfzmq/app.bsky.feed.post/3n2mstpc44k2g": "2026-11-19T01:06:28+00:00",
-  "beat_phi_mizell|at://did:plc:hl273o7bfegotspjc5dqfzmq/app.bsky.feed.post/3n2mt7iow4s2g": "2026-11-19T01:06:28+00:00",
-  "beat_phi_mizell|at://did:plc:hl273o7bfegotspjc5dqfzmq/app.bsky.feed.post/3n2mtgtqubk2g": "2026-11-19T01:06:28+00:00",
-  "beat_phi_mizell|at://did:plc:hl273o7bfegotspjc5dqfzmq/app.bsky.feed.post/3n2mutj74a22g": "2026-11-19T01:06:28+00:00",
-  "beat_phi_mizell|at://did:plc:hl273o7bfegotspjc5dqfzmq/app.bsky.feed.post/3n2muwalbrc2g": "2026-11-19T01:06:28+00:00",
   "beat_phi_mizell|at://did:plc:hl273o7bfegotspjc5dqfzmq/app.bsky.feed.post/3n2mvfcrlcc2g": "2026-11-19T17:40:06+00:00",
   "beat_phi_mizell|at://did:plc:hl273o7bfegotspjc5dqfzmq/app.bsky.feed.post/3n2mxwhgykk2g": "2026-11-19T17:40:06+00:00",
   "beat_phi_mizell|at://did:plc:hl273o7bfegotspjc5dqfzmq/app.bsky.feed.post/3n2myb7y7722g": "2026-11-19T17:40:06+00:00",
@@ -1384,10 +1368,6 @@
   "beat_phi_mizell|at://did:plc:hl273o7bfegotspjc5dqfzmq/app.bsky.feed.post/3n2tvlac27k2g": "2026-11-21T22:17:50+00:00",
   "beat_phi_mizell|at://did:plc:hl273o7bfegotspjc5dqfzmq/app.bsky.feed.post/3n2tws7op7s2g": "2026-11-21T22:17:50+00:00",
   "beat_phi_mizell|at://did:plc:hl273o7bfegotspjc5dqfzmq/app.bsky.feed.post/3n2tx7puezk2g": "2026-11-21T22:17:50+00:00",
-  "beat_tor_lewenberg|at://did:plc:75ywphuamkbx76cq6efue5y5/app.bsky.feed.post/3n2mt56ksvk2t": "2026-11-19T01:06:28+00:00",
-  "beat_tor_lewenberg|at://did:plc:75ywphuamkbx76cq6efue5y5/app.bsky.feed.post/3n2mtyabhbk27": "2026-11-19T01:06:28+00:00",
-  "beat_tor_lewenberg|at://did:plc:75ywphuamkbx76cq6efue5y5/app.bsky.feed.post/3n2mu35wubc27": "2026-11-19T01:06:28+00:00",
-  "beat_tor_lewenberg|at://did:plc:75ywphuamkbx76cq6efue5y5/app.bsky.feed.post/3n2murmii6227": "2026-11-19T01:06:28+00:00",
   "beat_tor_lewenberg|at://did:plc:75ywphuamkbx76cq6efue5y5/app.bsky.feed.post/3n2mvdg4rtc27": "2026-11-19T17:40:06+00:00",
   "beat_tor_lewenberg|at://did:plc:75ywphuamkbx76cq6efue5y5/app.bsky.feed.post/3n2mwe6qssc27": "2026-11-19T17:40:06+00:00",
   "beat_tor_lewenberg|at://did:plc:75ywphuamkbx76cq6efue5y5/app.bsky.feed.post/3n2my45d7ms27": "2026-11-19T17:40:06+00:00",
@@ -1464,21 +1444,20 @@
   "bsky_hoopshype|at://did:plc:i732zeq2rkbq2db66afktt5i/app.bsky.feed.post/3mzkzdtdals2a": "2026-11-19T17:40:06+00:00",
   "bsky_hoopshype|at://did:plc:i732zeq2rkbq2db66afktt5i/app.bsky.feed.post/3mzlgxsetls2t": "2026-11-19T17:40:06+00:00",
   "bsky_hoopshype|at://did:plc:i732zeq2rkbq2db66afktt5i/app.bsky.feed.post/3mzojdr6f6s22": "2026-11-21T02:36:07+00:00",
-  "bsky_hoopshype|at://did:plc:i732zeq2rkbq2db66afktt5i/app.bsky.feed.post/3mzs7dko3wc2e": "2026-11-19T01:06:28+00:00",
   "bsky_hoopshype|at://did:plc:i732zeq2rkbq2db66afktt5i/app.bsky.feed.post/3mzy2pyk6ls2y": "2026-11-21T02:36:07+00:00",
-  "bsky_hoopshype|at://did:plc:i732zeq2rkbq2db66afktt5i/app.bsky.feed.post/3n233s5xshk2y": "2026-11-19T01:06:28+00:00",
   "bsky_hoopshype|at://did:plc:i732zeq2rkbq2db66afktt5i/app.bsky.feed.post/3n24oitfxrs2x": "2026-11-19T17:40:06+00:00",
   "bsky_hoopshype|at://did:plc:i732zeq2rkbq2db66afktt5i/app.bsky.feed.post/3n276l4wea22c": "2026-11-20T13:23:11+00:00",
   "bsky_hoopshype|at://did:plc:i732zeq2rkbq2db66afktt5i/app.bsky.feed.post/3n2ip7cvkb22u": "2026-11-21T02:36:07+00:00",
   "bsky_hoopshype|at://did:plc:i732zeq2rkbq2db66afktt5i/app.bsky.feed.post/3n2iqq6iyzk2l": "2026-11-21T02:36:07+00:00",
   "bsky_hoopshype|at://did:plc:i732zeq2rkbq2db66afktt5i/app.bsky.feed.post/3n2k56jukjc25": "2026-11-21T22:17:50+00:00",
+  "bsky_hoopshype|at://did:plc:i732zeq2rkbq2db66afktt5i/app.bsky.feed.post/3n2lbkr22g22m": "2026-11-22T02:19:51+00:00",
+  "bsky_hoopshype|at://did:plc:i732zeq2rkbq2db66afktt5i/app.bsky.feed.post/3n2luzt66x22c": "2026-11-22T02:19:51+00:00",
   "bsky_hoopshype|at://did:plc:i732zeq2rkbq2db66afktt5i/app.bsky.feed.post/3n2p3lc4bfc2v": "2026-11-19T23:49:44+00:00",
   "bsky_hoopshype|at://did:plc:i732zeq2rkbq2db66afktt5i/app.bsky.feed.post/3n2qmyqbp622f": "2026-11-20T13:23:11+00:00",
   "bsky_hoopshype|at://did:plc:i732zeq2rkbq2db66afktt5i/app.bsky.feed.post/3n2st2fwotk27": "2026-11-21T17:28:24+00:00",
   "bsky_hoopshype|at://did:plc:i732zeq2rkbq2db66afktt5i/app.bsky.feed.post/3n2sxrmgptksz": "2026-11-21T17:28:24+00:00",
   "bsky_hoopshype|at://did:plc:i732zeq2rkbq2db66afktt5i/app.bsky.feed.post/3n2sxtshpqsb2": "2026-11-21T17:28:24+00:00",
   "bsky_hoopshype|at://did:plc:i732zeq2rkbq2db66afktt5i/app.bsky.feed.post/3n2tupt5smk2c": "2026-11-21T22:17:50+00:00",
-  "bsky_keith_smith|at://did:plc:luofuy2uw7g4vsd2vbwidtel/app.bsky.feed.post/3n2mkinifrk2w": "2026-11-19T01:06:28+00:00",
   "bsky_keith_smith|at://did:plc:luofuy2uw7g4vsd2vbwidtel/app.bsky.feed.post/3n2n4qu4brc2w": "2026-11-19T17:40:06+00:00",
   "bsky_keith_smith|at://did:plc:luofuy2uw7g4vsd2vbwidtel/app.bsky.feed.post/3n2n4u4yi7c2w": "2026-11-19T17:40:06+00:00",
   "bsky_keith_smith|at://did:plc:luofuy2uw7g4vsd2vbwidtel/app.bsky.feed.post/3n2n4zbhm4s2w": "2026-11-19T17:40:06+00:00",
@@ -1527,26 +1506,6 @@
   "bsky_keith_smith|at://did:plc:luofuy2uw7g4vsd2vbwidtel/app.bsky.feed.post/3n2tx2lvvdc22": "2026-11-21T22:17:50+00:00",
   "bsky_keith_smith|at://did:plc:luofuy2uw7g4vsd2vbwidtel/app.bsky.feed.post/3n2txaer2ic22": "2026-11-21T22:17:50+00:00",
   "bsky_keith_smith|at://did:plc:luofuy2uw7g4vsd2vbwidtel/app.bsky.feed.post/3n2txqhbnoc22": "2026-11-21T22:17:50+00:00",
-  "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2mhgkpfd62k": "2026-11-19T01:06:28+00:00",
-  "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2mhjjhtx42m": "2026-11-19T01:06:28+00:00",
-  "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2mhopo3wk2t": "2026-11-19T01:06:28+00:00",
-  "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2michs32v2q": "2026-11-19T01:06:28+00:00",
-  "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2mlrhcljd2r": "2026-11-19T01:06:28+00:00",
-  "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2mnklwklh2k": "2026-11-19T01:06:28+00:00",
-  "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2mnle2kny2r": "2026-11-19T01:06:28+00:00",
-  "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2mnmvkppv2r": "2026-11-19T01:06:28+00:00",
-  "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2mnot56pi2r": "2026-11-19T01:06:28+00:00",
-  "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2mnusrqvi2r": "2026-11-19T01:06:28+00:00",
-  "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2mo5ni6aq2r": "2026-11-19T01:06:28+00:00",
-  "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2moamgq5623": "2026-11-19T01:06:28+00:00",
-  "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2mol55ho22k": "2026-11-19T01:06:28+00:00",
-  "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2mow4t4e62z": "2026-11-19T01:06:28+00:00",
-  "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2moztn4va2r": "2026-11-19T01:06:28+00:00",
-  "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2mpj3ooya2y": "2026-11-19T01:06:28+00:00",
-  "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2mpseqp6w2q": "2026-11-19T01:06:28+00:00",
-  "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2mtergjxr2z": "2026-11-19T01:06:28+00:00",
-  "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2mtftfh6g2b": "2026-11-19T01:06:28+00:00",
-  "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2mtykmjnu26": "2026-11-19T01:06:28+00:00",
   "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2n5dwpo7626": "2026-11-19T17:40:06+00:00",
   "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2n5pfk2ta2z": "2026-11-19T17:40:06+00:00",
   "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2n5s6b43s2k": "2026-11-19T17:40:06+00:00",
@@ -1690,6 +1649,16 @@
   "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2tydrx5nj2q": "2026-11-21T22:17:50+00:00",
   "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2u3fgriyp2l": "2026-11-21T22:17:50+00:00",
   "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2u4vw7yh62u": "2026-11-21T22:17:50+00:00",
+  "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2u52ec4z62u": "2026-11-22T02:19:51+00:00",
+  "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2u5b5pmma25": "2026-11-22T02:19:51+00:00",
+  "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2u5chc3wn2q": "2026-11-22T02:19:51+00:00",
+  "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2u5mwlxbi25": "2026-11-22T02:19:51+00:00",
+  "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2u6ivs5wu22": "2026-11-22T02:19:51+00:00",
+  "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2u6t2mo7j2v": "2026-11-22T02:19:51+00:00",
+  "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2udctoufr2n": "2026-11-22T02:19:51+00:00",
+  "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2ueuplr7d22": "2026-11-22T02:19:51+00:00",
+  "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2uexiz2wm2u": "2026-11-22T02:19:51+00:00",
+  "bsky_rotowire|at://did:plc:eq53tkcoi7ekg7ytlqwt7zcq/app.bsky.feed.post/3n2ufamdmcd2n": "2026-11-22T02:19:51+00:00",
   "bsky_scotto|at://did:plc:e3ktrbooe3mildj4hhwhsvtc/app.bsky.feed.post/3mzsrxawftc2y": "2026-11-19T17:40:06+00:00",
   "bsky_scotto|at://did:plc:e3ktrbooe3mildj4hhwhsvtc/app.bsky.feed.post/3mzsyuaiqts2a": "2026-11-19T17:40:06+00:00",
   "bsky_scotto|at://did:plc:e3ktrbooe3mildj4hhwhsvtc/app.bsky.feed.post/3mzt2d7jy6c2a": "2026-11-19T17:40:06+00:00",
@@ -1699,7 +1668,7 @@
   "bsky_scotto|at://did:plc:e3ktrbooe3mildj4hhwhsvtc/app.bsky.feed.post/3mzxy2io6hk2t": "2026-11-21T02:36:07+00:00",
   "bsky_scotto|at://did:plc:e3ktrbooe3mildj4hhwhsvtc/app.bsky.feed.post/3mzygvgjxnk2o": "2026-11-21T22:17:50+00:00",
   "bsky_scotto|at://did:plc:e3ktrbooe3mildj4hhwhsvtc/app.bsky.feed.post/3mzyjwjwjes22": "2026-11-21T22:17:50+00:00",
-  "bsky_scotto|at://did:plc:e3ktrbooe3mildj4hhwhsvtc/app.bsky.feed.post/3n22q6hrp3s23": "2026-11-19T01:06:28+00:00",
+  "bsky_scotto|at://did:plc:e3ktrbooe3mildj4hhwhsvtc/app.bsky.feed.post/3n22iqzwksk2s": "2026-11-22T02:19:51+00:00",
   "bsky_scotto|at://did:plc:e3ktrbooe3mildj4hhwhsvtc/app.bsky.feed.post/3n24wwzl5pc24": "2026-11-19T23:49:44+00:00",
   "bsky_scotto|at://did:plc:e3ktrbooe3mildj4hhwhsvtc/app.bsky.feed.post/3n25kdbnlfc2x": "2026-11-20T04:24:39+00:00",
   "bsky_scotto|at://did:plc:e3ktrbooe3mildj4hhwhsvtc/app.bsky.feed.post/3n27kexspmc2j": "2026-11-21T02:36:07+00:00",
@@ -1715,7 +1684,6 @@
   "bsky_scotto|at://did:plc:e3ktrbooe3mildj4hhwhsvtc/app.bsky.feed.post/3n2k36mrmos27": "2026-11-21T22:17:50+00:00",
   "bsky_scotto|at://did:plc:e3ktrbooe3mildj4hhwhsvtc/app.bsky.feed.post/3n2k5zeschk2n": "2026-11-21T22:17:50+00:00",
   "bsky_scotto|at://did:plc:e3ktrbooe3mildj4hhwhsvtc/app.bsky.feed.post/3n2kafyhblc2a": "2026-11-21T22:17:50+00:00",
-  "bsky_scotto|at://did:plc:e3ktrbooe3mildj4hhwhsvtc/app.bsky.feed.post/3n2mcrbf4vs2s": "2026-11-19T01:06:28+00:00",
   "bsky_scotto|at://did:plc:e3ktrbooe3mildj4hhwhsvtc/app.bsky.feed.post/3n2n52ut4vk2z": "2026-11-19T17:40:06+00:00",
   "bsky_scotto|at://did:plc:e3ktrbooe3mildj4hhwhsvtc/app.bsky.feed.post/3n2ok47y75s2t": "2026-11-19T17:40:06+00:00",
   "bsky_scotto|at://did:plc:e3ktrbooe3mildj4hhwhsvtc/app.bsky.feed.post/3n2oldindhs2t": "2026-11-19T17:40:06+00:00",
@@ -1733,6 +1701,7 @@
   "bsky_shams_mirror|at://did:plc:sa73fbx3vxzh2fw5pu5wmief/app.bsky.feed.post/3mzc7qdlsxj2d": "2026-11-19T17:40:06+00:00",
   "bsky_shams_mirror|at://did:plc:sa73fbx3vxzh2fw5pu5wmief/app.bsky.feed.post/3mzdzjwlnhu27": "2026-11-21T02:36:07+00:00",
   "bsky_shams_mirror|at://did:plc:sa73fbx3vxzh2fw5pu5wmief/app.bsky.feed.post/3mzfz2edff423": "2026-11-21T02:36:07+00:00",
+  "bsky_shams_mirror|at://did:plc:sa73fbx3vxzh2fw5pu5wmief/app.bsky.feed.post/3mzj7baittv2s": "2026-11-22T02:19:51+00:00",
   "bsky_shams_mirror|at://did:plc:sa73fbx3vxzh2fw5pu5wmief/app.bsky.feed.post/3mzsywtyc332x": "2026-11-19T17:40:06+00:00",
   "bsky_shams_mirror|at://did:plc:sa73fbx3vxzh2fw5pu5wmief/app.bsky.feed.post/3n27vw3rzjy27": "2026-11-21T02:36:07+00:00",
   "bsky_shams_mirror|at://did:plc:sa73fbx3vxzh2fw5pu5wmief/app.bsky.feed.post/3n27vw4pmsi27": "2026-11-21T02:36:07+00:00",
@@ -1749,29 +1718,6 @@
   "bsky_shams_mirror|at://did:plc:sa73fbx3vxzh2fw5pu5wmief/app.bsky.feed.post/3n2oumls5ns2i": "2026-11-19T23:49:44+00:00",
   "bsky_shams_mirror|at://did:plc:sa73fbx3vxzh2fw5pu5wmief/app.bsky.feed.post/3n2rfup3ojd2j": "2026-11-20T21:22:26+00:00",
   "bsky_shams_mirror|at://did:plc:sa73fbx3vxzh2fw5pu5wmief/app.bsky.feed.post/3n2rgjjqced2t": "2026-11-20T21:22:26+00:00",
-  "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2mcjthuv22k": "2026-11-19T01:06:28+00:00",
-  "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2mcnhxxpk2v": "2026-11-19T01:06:28+00:00",
-  "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2mhlw6ul42q": "2026-11-19T01:06:28+00:00",
-  "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2mi6bqxkn25": "2026-11-19T01:06:28+00:00",
-  "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2mifv2y6o2i": "2026-11-19T01:06:28+00:00",
-  "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2mk2kuahk2g": "2026-11-19T01:06:28+00:00",
-  "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2mmgaq4bp27": "2026-11-19T01:06:28+00:00",
-  "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2mmhgrdq22g": "2026-11-19T01:06:28+00:00",
-  "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2mmpelrdi22": "2026-11-19T01:06:28+00:00",
-  "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2mnqfkhuk26": "2026-11-19T01:06:28+00:00",
-  "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2mo2hx56v2n": "2026-11-19T01:06:28+00:00",
-  "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2mo5vs2nc25": "2026-11-19T01:06:28+00:00",
-  "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2mo6y34dx26": "2026-11-19T01:06:28+00:00",
-  "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2moe4fxav2z": "2026-11-19T01:06:28+00:00",
-  "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2mojooxai26": "2026-11-19T01:06:28+00:00",
-  "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2mokloydt22": "2026-11-19T01:06:28+00:00",
-  "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2movr22b726": "2026-11-19T01:06:28+00:00",
-  "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2mpsqifzu25": "2026-11-19T01:06:28+00:00",
-  "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2mq5ojvnb2i": "2026-11-19T01:06:28+00:00",
-  "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2mqa4dego25": "2026-11-19T01:06:28+00:00",
-  "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2mr64pekj2i": "2026-11-19T01:06:28+00:00",
-  "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2ms3srjie26": "2026-11-19T01:06:28+00:00",
-  "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2mt6cs4eg26": "2026-11-19T01:06:28+00:00",
   "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2n4qddhtq2i": "2026-11-19T17:40:06+00:00",
   "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2n4r3ud3n26": "2026-11-19T17:40:06+00:00",
   "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2n5cqgdag22": "2026-11-19T17:40:06+00:00",
@@ -1923,6 +1869,15 @@
   "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2u43srimd27": "2026-11-21T22:17:50+00:00",
   "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2u4edogwn25": "2026-11-21T22:17:50+00:00",
   "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2u4n3r5hm25": "2026-11-21T22:17:50+00:00",
+  "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2u5763m6l2y": "2026-11-22T02:19:51+00:00",
+  "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2u5ddf6fw22": "2026-11-22T02:19:51+00:00",
+  "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2u5t2vyz325": "2026-11-22T02:19:51+00:00",
+  "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2u5wdbq4425": "2026-11-22T02:19:51+00:00",
+  "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2u7wvmu2m2q": "2026-11-22T02:19:51+00:00",
+  "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2ubmq6uu725": "2026-11-22T02:19:51+00:00",
+  "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2uemmxa6q26": "2026-11-22T02:19:51+00:00",
+  "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2uevf6rnr2c": "2026-11-22T02:19:51+00:00",
+  "bsky_sportsethos|at://did:plc:pjy44evqbyz2kpv6l5whtggl/app.bsky.feed.post/3n2uhu2u7wq26": "2026-11-22T02:19:51+00:00",
   "bsky_stein|at://did:plc:igwnnfvmgtrxmgumffgkjfpa/app.bsky.feed.post/3msa4q7qs422u": "2026-11-21T02:36:07+00:00",
   "bsky_stein|at://did:plc:igwnnfvmgtrxmgumffgkjfpa/app.bsky.feed.post/3msosnqrlpk2d": "2026-11-21T02:36:07+00:00",
   "bsky_stein|at://did:plc:igwnnfvmgtrxmgumffgkjfpa/app.bsky.feed.post/3msqhwzgfks2d": "2026-11-21T02:36:07+00:00",
@@ -1943,6 +1898,7 @@
   "bsky_stein|at://did:plc:igwnnfvmgtrxmgumffgkjfpa/app.bsky.feed.post/3myv4yxgq622x": "2026-11-21T02:36:07+00:00",
   "bsky_stein|at://did:plc:igwnnfvmgtrxmgumffgkjfpa/app.bsky.feed.post/3mziqvu6ovc2x": "2026-11-21T22:17:50+00:00",
   "bsky_stein|at://did:plc:igwnnfvmgtrxmgumffgkjfpa/app.bsky.feed.post/3mzvfx6fbw22v": "2026-11-20T04:24:39+00:00",
+  "bsky_stein|at://did:plc:igwnnfvmgtrxmgumffgkjfpa/app.bsky.feed.post/3n22evhqxmc2t": "2026-11-22T02:19:51+00:00",
   "bsky_stein|at://did:plc:igwnnfvmgtrxmgumffgkjfpa/app.bsky.feed.post/3n24vtdarhs25": "2026-11-19T23:49:44+00:00",
   "bsky_stein|at://did:plc:igwnnfvmgtrxmgumffgkjfpa/app.bsky.feed.post/3n25bgk3gbk2p": "2026-11-19T23:49:44+00:00",
   "bsky_stein|at://did:plc:igwnnfvmgtrxmgumffgkjfpa/app.bsky.feed.post/3n25e3lwwts2p": "2026-11-19T23:49:44+00:00",
@@ -2010,6 +1966,7 @@
   "espn_injuries|536354:2026-10-27T19:25Z": "2026-11-21T02:36:07+00:00",
   "espn_injuries|536492:2026-10-28T18:38Z": "2026-11-21T22:17:50+00:00",
   "espn_injuries|536529:2026-10-28T21:41Z": "2026-11-21T22:17:50+00:00",
+  "espn_injuries|536553:2026-10-28T23:41Z": "2026-11-22T02:19:51+00:00",
   "espn_injuries|536718:2026-10-29T18:33Z": "2026-11-19T17:40:06+00:00",
   "espn_injuries|536814:2026-10-30T19:06Z": "2026-11-21T02:36:07+00:00",
   "espn_injuries|536870:2026-10-31T01:02Z": "2026-11-21T02:36:07+00:00",
@@ -2017,18 +1974,16 @@
   "espn_injuries|537207:2026-11-02T18:22Z": "2026-11-21T02:36:07+00:00",
   "espn_injuries|537861:2026-11-06T21:26Z": "2026-11-21T02:36:07+00:00",
   "espn_injuries|537982:2026-11-07T17:24Z": "2026-11-21T22:17:50+00:00",
-  "espn_injuries|538064:2026-11-08T02:18Z": "2026-11-19T01:06:28+00:00",
   "espn_injuries|538124:2026-11-08T16:05Z": "2026-11-19T17:40:06+00:00",
   "espn_injuries|538192:2026-11-08T22:26Z": "2026-11-19T17:40:06+00:00",
   "espn_injuries|538194:2026-11-08T22:31Z": "2026-11-19T17:40:06+00:00",
-  "espn_injuries|538611:2026-11-11T18:22Z": "2026-11-19T01:06:28+00:00",
-  "espn_injuries|538628:2026-11-11T19:56Z": "2026-11-19T01:06:28+00:00",
   "espn_injuries|538765:2026-11-12T16:36Z": "2026-11-19T23:49:44+00:00",
   "espn_injuries|538781:2026-11-12T17:03Z": "2026-11-19T23:49:44+00:00",
   "espn_injuries|538817:2026-11-12T21:35Z": "2026-11-19T23:49:44+00:00",
   "espn_injuries|538842:2026-11-13T00:06Z": "2026-11-20T04:24:39+00:00",
   "espn_injuries|538929:2026-11-13T20:19Z": "2026-11-21T02:36:07+00:00",
   "espn_injuries|539071:2026-11-14T17:33Z": "2026-11-21T22:17:50+00:00",
+  "espn_injuries|539134:2026-11-14T21:59Z": "2026-11-22T02:19:51+00:00",
   "espn_injuries|539254:2026-11-15T18:22Z": "2026-11-19T17:40:06+00:00",
   "espn_injuries|539308:2026-11-15T22:40Z": "2026-11-19T17:40:06+00:00",
   "espn_injuries|539324:2026-11-15T23:46Z": "2026-11-19T23:49:44+00:00",
@@ -2045,27 +2000,9 @@
   "espn_injuries|539649:2026-11-17T22:53Z": "2026-11-21T22:17:50+00:00",
   "espn_injuries|539654:2026-11-17T23:18Z": "2026-11-21T22:17:50+00:00",
   "espn_injuries|539656:2026-11-18T00:01Z": "2026-11-21T22:17:50+00:00",
-  "espn_injuries|539797:2026-11-18T19:04Z": "2026-11-19T01:06:28+00:00",
-  "espn_injuries|539798:2026-11-18T19:05Z": "2026-11-19T01:06:28+00:00",
-  "espn_injuries|539804:2026-11-18T21:03Z": "2026-11-19T01:06:28+00:00",
-  "espn_injuries|539805:2026-11-18T21:05Z": "2026-11-19T01:06:28+00:00",
-  "espn_injuries|539809:2026-11-18T22:21Z": "2026-11-19T01:06:28+00:00",
-  "espn_injuries|539810:2026-11-18T22:27Z": "2026-11-19T01:06:28+00:00",
-  "espn_injuries|539814:2026-11-18T22:53Z": "2026-11-19T01:06:28+00:00",
-  "espn_injuries|539815:2026-11-18T22:54Z": "2026-11-19T01:06:28+00:00",
-  "espn_injuries|539816:2026-11-18T22:55Z": "2026-11-19T01:06:28+00:00",
-  "espn_injuries|539817:2026-11-18T22:58Z": "2026-11-19T01:06:28+00:00",
-  "espn_injuries|539819:2026-11-18T23:04Z": "2026-11-19T01:06:28+00:00",
-  "espn_injuries|539820:2026-11-18T23:05Z": "2026-11-19T01:06:28+00:00",
-  "espn_injuries|539822:2026-11-18T23:11Z": "2026-11-19T01:06:28+00:00",
-  "espn_injuries|539823:2026-11-18T23:11Z": "2026-11-19T01:06:28+00:00",
-  "espn_injuries|539824:2026-11-18T23:17Z": "2026-11-19T01:06:28+00:00",
-  "espn_injuries|539826:2026-11-18T23:19Z": "2026-11-19T01:06:28+00:00",
-  "espn_injuries|539828:2026-11-18T23:33Z": "2026-11-19T01:06:28+00:00",
-  "espn_injuries|539833:2026-11-18T23:38Z": "2026-11-19T01:06:28+00:00",
-  "espn_injuries|539837:2026-11-18T23:59Z": "2026-11-19T01:06:28+00:00",
-  "espn_injuries|539841:2026-11-19T00:37Z": "2026-11-19T01:06:28+00:00",
-  "espn_injuries|539847:2026-11-19T00:54Z": "2026-11-19T01:06:28+00:00",
+  "espn_injuries|539684:2026-11-18T05:54Z": "2026-11-22T02:19:51+00:00",
+  "espn_injuries|539762:2026-11-18T17:12Z": "2026-11-22T02:19:51+00:00",
+  "espn_injuries|539769:2026-11-18T17:25Z": "2026-11-22T02:19:51+00:00",
   "espn_injuries|539850:2026-11-19T01:27Z": "2026-11-19T17:40:06+00:00",
   "espn_injuries|539851:2026-11-19T01:34Z": "2026-11-19T17:40:06+00:00",
   "espn_injuries|539852:2026-11-19T01:38Z": "2026-11-19T17:40:06+00:00",
@@ -2156,6 +2093,21 @@
   "espn_injuries|540371:2026-11-21T21:09Z": "2026-11-21T22:17:50+00:00",
   "espn_injuries|540372:2026-11-21T21:19Z": "2026-11-21T22:17:50+00:00",
   "espn_injuries|540373:2026-11-21T21:49Z": "2026-11-21T22:17:50+00:00",
+  "espn_injuries|540374:2026-11-21T22:12Z": "2026-11-22T02:19:51+00:00",
+  "espn_injuries|540375:2026-11-21T22:16Z": "2026-11-22T02:19:51+00:00",
+  "espn_injuries|540376:2026-11-21T22:19Z": "2026-11-22T02:19:51+00:00",
+  "espn_injuries|540377:2026-11-21T22:23Z": "2026-11-22T02:19:51+00:00",
+  "espn_injuries|540379:2026-11-21T22:29Z": "2026-11-22T02:19:51+00:00",
+  "espn_injuries|540380:2026-11-21T22:29Z": "2026-11-22T02:19:51+00:00",
+  "espn_injuries|540381:2026-11-21T22:34Z": "2026-11-22T02:19:51+00:00",
+  "espn_injuries|540382:2026-11-21T22:34Z": "2026-11-22T02:19:51+00:00",
+  "espn_injuries|540383:2026-11-21T22:39Z": "2026-11-22T02:19:51+00:00",
+  "espn_injuries|540384:2026-11-21T22:45Z": "2026-11-22T02:19:51+00:00",
+  "espn_injuries|540385:2026-11-21T22:51Z": "2026-11-22T02:19:51+00:00",
+  "espn_injuries|540386:2026-11-21T23:05Z": "2026-11-22T02:19:51+00:00",
+  "espn_injuries|540388:2026-11-21T23:14Z": "2026-11-22T02:19:51+00:00",
+  "espn_injuries|540393:2026-11-22T00:11Z": "2026-11-22T02:19:51+00:00",
+  "espn_injuries|540398:2026-11-22T00:39Z": "2026-11-22T02:19:51+00:00",
   "espn_news|29553205": "2026-11-20T21:22:26+00:00",
   "espn_news|42486659": "2026-11-21T17:28:24+00:00",
   "espn_news|49577473": "2026-11-21T17:28:24+00:00",
@@ -2166,23 +2118,9 @@
   "espn_news|50446164": "2026-11-19T17:40:06+00:00",
   "espn_news|50505898": "2026-11-21T02:36:07+00:00",
   "espn_news|50513465": "2026-11-19T17:40:06+00:00",
-  "espn_news|50522225": "2026-11-19T01:06:28+00:00",
   "espn_news|50522350": "2026-11-19T17:40:06+00:00",
-  "espn_news|50523170": "2026-11-19T01:06:28+00:00",
-  "espn_news|50523313": "2026-11-19T01:06:28+00:00",
   "espn_news|50523371": "2026-11-19T17:40:06+00:00",
-  "espn_news|50524054": "2026-11-19T01:06:28+00:00",
-  "espn_news|50524220": "2026-11-19T01:06:28+00:00",
-  "espn_news|50524333": "2026-11-19T01:06:28+00:00",
-  "espn_news|50524441": "2026-11-19T01:06:28+00:00",
   "espn_news|50524821": "2026-11-20T13:23:11+00:00",
-  "espn_news|50525077": "2026-11-19T01:06:28+00:00",
-  "espn_news|50525193": "2026-11-19T01:06:28+00:00",
-  "espn_news|50525196": "2026-11-19T01:06:28+00:00",
-  "espn_news|50525425": "2026-11-19T01:06:28+00:00",
-  "espn_news|50525586": "2026-11-19T01:06:28+00:00",
-  "espn_news|50525838": "2026-11-19T01:06:28+00:00",
-  "espn_news|50525911": "2026-11-19T01:06:28+00:00",
   "espn_news|50526626": "2026-11-19T17:40:06+00:00",
   "espn_news|50529634": "2026-11-19T17:40:06+00:00",
   "espn_news|50529635": "2026-11-19T17:40:06+00:00",
@@ -2369,11 +2307,30 @@
   "espn_news|50553702": "2026-11-21T22:17:50+00:00",
   "espn_news|50554172": "2026-11-21T22:17:50+00:00",
   "espn_news|50554641": "2026-11-21T22:17:50+00:00",
-  "rotowire_rss|nba539828": "2026-11-19T01:06:28+00:00",
-  "rotowire_rss|nba539841": "2026-11-19T01:06:28+00:00",
-  "rotowire_rss|nba539842": "2026-11-19T01:06:28+00:00",
-  "rotowire_rss|nba539845": "2026-11-19T01:06:28+00:00",
-  "rotowire_rss|nba539847": "2026-11-19T01:06:28+00:00",
+  "espn_news|50554752": "2026-11-22T02:19:51+00:00",
+  "espn_news|50554838": "2026-11-22T02:19:51+00:00",
+  "espn_news|50554955": "2026-11-22T02:19:51+00:00",
+  "espn_news|50555114": "2026-11-22T02:19:51+00:00",
+  "espn_news|50555131": "2026-11-22T02:19:51+00:00",
+  "espn_news|50555155": "2026-11-22T02:19:51+00:00",
+  "espn_news|50555166": "2026-11-22T02:19:51+00:00",
+  "espn_news|50555183": "2026-11-22T02:19:51+00:00",
+  "espn_news|50555189": "2026-11-22T02:19:51+00:00",
+  "espn_news|50555285": "2026-11-22T02:19:51+00:00",
+  "espn_news|50555316": "2026-11-22T02:19:51+00:00",
+  "espn_news|50555359": "2026-11-22T02:19:51+00:00",
+  "espn_news|50556419": "2026-11-22T02:19:51+00:00",
+  "espn_news|50556504": "2026-11-22T02:19:51+00:00",
+  "espn_news|50556541": "2026-11-22T02:19:51+00:00",
+  "espn_news|50556731": "2026-11-22T02:19:51+00:00",
+  "espn_news|50556765": "2026-11-22T02:19:51+00:00",
+  "espn_news|50556774": "2026-11-22T02:19:51+00:00",
+  "espn_news|50556826": "2026-11-22T02:19:51+00:00",
+  "espn_news|50556918": "2026-11-22T02:19:51+00:00",
+  "espn_news|50556925": "2026-11-22T02:19:51+00:00",
+  "espn_news|50556995": "2026-11-22T02:19:51+00:00",
+  "espn_news|50557222": "2026-11-22T02:19:51+00:00",
+  "espn_news|50557374": "2026-11-22T02:19:51+00:00",
   "rotowire_rss|nba539957": "2026-11-19T17:40:06+00:00",
   "rotowire_rss|nba539959": "2026-11-19T17:40:06+00:00",
   "rotowire_rss|nba539961": "2026-11-19T17:40:06+00:00",
@@ -2409,25 +2366,38 @@
   "rotowire_rss|nba540368": "2026-11-21T22:17:50+00:00",
   "rotowire_rss|nba540369": "2026-11-21T22:17:50+00:00",
   "rotowire_rss|nba540370": "2026-11-21T22:17:50+00:00",
-  "rotowire_rss|nba540373": "2026-11-21T22:17:50+00:00"
+  "rotowire_rss|nba540373": "2026-11-21T22:17:50+00:00",
+  "rotowire_rss|nba540385": "2026-11-22T02:19:51+00:00",
+  "rotowire_rss|nba540393": "2026-11-22T02:19:51+00:00",
+  "rotowire_rss|nba540398": "2026-11-22T02:19:51+00:00",
+  "rotowire_rss|nba540400": "2026-11-22T02:19:51+00:00",
+  "rotowire_rss|nba540405": "2026-11-22T02:19:51+00:00"
  },
  "sent": {
   "aday mara|401909310|nmu_start": "2026-11-21T02:36:11+00:00",
   "allen graves|401909308|big_line": "2026-11-21T02:36:11+00:00",
   "allen graves|401909308|nmu_start": "2026-11-21T02:36:11+00:00",
+  "andre drummond|401910024|nmu_start": "2026-11-22T02:19:58+00:00",
   "andrew nembhard|401909307|nmu_start": "2026-11-21T02:36:11+00:00",
   "cam spencer|401910007|nmu_start": "2026-11-19T01:06:31+00:00",
+  "cedric coward|401910026|nmu_usage": "2026-11-22T02:19:58+00:00",
   "damian lillard|401910003|nmu_usage": "2026-11-18T02:37:09+00:00",
   "danny wolf|401909306|nmu_start": "2026-11-21T02:36:11+00:00",
+  "deni avdija|401910024|nmu_start": "2026-11-22T02:19:58+00:00",
+  "derik queen|401910027|nmu_start": "2026-11-22T02:19:58+00:00",
   "donovan clingan|401910003|nmu_usage": "2026-11-18T02:37:09+00:00",
   "egor demin|401910011|nmu_start": "2026-11-19T01:06:31+00:00",
   "herbert jones|401909310|nmu_usage": "2026-11-21T02:36:11+00:00",
+  "jahmai mashack|401910026|nmu_start": "2026-11-22T02:19:58+00:00",
   "jakob poeltl|401910012|nmu_start": "2026-11-19T01:06:31+00:00",
   "jamison battle|401910012|nmu_start": "2026-11-19T01:06:31+00:00",
   "jared mccain|401909310|nmu_usage": "2026-11-21T02:36:11+00:00",
   "javonte green|401909308|big_line": "2026-11-21T02:36:11+00:00",
   "jayson kent|401910003|nmu_start": "2026-11-18T02:37:09+00:00",
   "jeremiah fears|401909310|nmu_usage": "2026-11-21T02:36:11+00:00",
+  "jeremiah fears|401910027|nmu_usage": "2026-11-22T02:19:58+00:00",
+  "karlanthony towns|401910024|no_start": "2026-11-22T02:19:58+00:00",
+  "landry shamet|401910024|nmu_start": "2026-11-22T02:19:58+00:00",
   "mario hezonja|401910007|nmu_start": "2026-11-19T01:06:31+00:00",
   "news|DEN|MINUTES LIMIT|2026-11-20|alperen-sengun-and-steven-adams-will": "2026-11-21T02:36:11+00:00",
   "news|DET|STARTING|2026-11-18|woo-will-start-tonight": "2026-11-19T01:06:31+00:00",
@@ -2464,6 +2434,7 @@
   "stocks|2026-11-19": "2026-11-19T16:00:48+00:00",
   "stocks|2026-11-20": "2026-11-20T15:43:24+00:00",
   "stocks|2026-11-21": "2026-11-21T14:54:26+00:00",
+  "ty jerome|401910026|nmu_start": "2026-11-22T02:19:58+00:00",
   "tyrese proctor|401910007|nmu_start": "2026-11-19T01:06:31+00:00",
   "zach edey|401910007|nmu_start": "2026-11-19T01:06:31+00:00",
   "zion williamson|401909310|nmu_usage": "2026-11-21T02:36:11+00:00"
@@ -2555,24 +2526,24 @@
    ]
   },
   "MEM": {
-   "game": "401910007",
+   "game": "401910026",
    "prev_starters": [
-    "cedric coward",
-    "cameron boozer",
-    "jaylen wells",
-    "isaiah stewart",
-    "ty jerome"
-   ],
-   "starters": [
     "cedric coward",
     "cameron boozer",
     "jaylen wells",
     "zach edey",
     "cam spencer"
+   ],
+   "starters": [
+    "cedric coward",
+    "jaylen wells",
+    "zach edey",
+    "ty jerome",
+    "jahmai mashack"
    ]
   },
   "NO": {
-   "game": "401909310",
+   "game": "401910027",
    "prev_starters": [
     "herbert jones",
     "zion williamson",
@@ -2582,14 +2553,14 @@
    ],
    "starters": [
     "herbert jones",
-    "zion williamson",
     "saddiq bey",
+    "derik queen",
     "yves missi",
     "jeremiah fears"
    ]
   },
   "NY": {
-   "game": "401910002",
+   "game": "401910024",
    "prev_starters": [
     "og anunoby",
     "karlanthony towns",
@@ -2598,10 +2569,10 @@
     "jalen brunson"
    ],
    "starters": [
-    "og anunoby",
-    "karlanthony towns",
+    "andre drummond",
     "josh hart",
     "mikal bridges",
+    "landry shamet",
     "jalen brunson"
    ]
   },
@@ -2623,19 +2594,19 @@
    ]
   },
   "POR": {
-   "game": "401910003",
+   "game": "401910024",
    "prev_starters": [
-    "toumani camara",
-    "deni avdija",
-    "donovan clingan",
-    "damian lillard",
-    "sidy cissoko"
-   ],
-   "starters": [
     "toumani camara",
     "donovan clingan",
     "damian lillard",
     "jayson kent",
+    "sidy cissoko"
+   ],
+   "starters": [
+    "toumani camara",
+    "deni avdija",
+    "donovan clingan",
+    "damian lillard",
     "sidy cissoko"
    ]
   },
