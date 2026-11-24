@@ -64,6 +64,13 @@
     "beat_det_sankofa": "2026-11-15T03:01:02+00:00"
    }
   },
+  "DET|OUT|2026-11-24|shootaround-just-wrapped-in-orlando-jalen": {
+   "first_src": "beat_det_sankofa",
+   "first_ts": "2026-11-24T16:09:15+00:00",
+   "seen": {
+    "beat_det_sankofa": "2026-11-24T16:09:15+00:00"
+   }
+  },
   "DET|STARTING|2026-11-09|ebuka-okories-in-to-start-the": {
    "first_src": "beat_det_sankofa",
    "first_ts": "2026-11-10T02:11:43+00:00",
@@ -97,13 +104,6 @@
    "first_ts": "2026-11-04T00:09:38+00:00",
    "seen": {
     "beat_ind_agness": "2026-11-04T00:09:38+00:00"
-   }
-  },
-  "PHI|AVAILABLE|2026-11-02|franklin-the-dog-with-all-five": {
-   "first_src": "beat_phi_aaronson",
-   "first_ts": "2026-11-03T01:32:27+00:00",
-   "seen": {
-    "beat_phi_aaronson": "2026-11-03T01:32:27+00:00"
    }
   },
   "PHI|OUT|2026-11-08|norman-powell-is-out-today-vs": {
@@ -253,13 +253,6 @@
    "first_ts": "2026-11-24T00:09:08+00:00",
    "seen": {
     "beat_tor_lewenberg": "2026-11-24T00:09:08+00:00"
-   }
-  },
-  "alpha diallo|OUT|2026-11-02": {
-   "first_src": "beat_den_benedetto",
-   "first_ts": "2026-11-03T00:53:43+00:00",
-   "seen": {
-    "beat_den_benedetto": "2026-11-03T00:53:43+00:00"
    }
   },
   "andrew nembhard|OUT|2026-11-15": {
@@ -985,13 +978,6 @@
     "espn_injuries": "2026-11-19T14:44:00+00:00"
    }
   },
-  "ja morant|NEWS|2026-11-03": {
-   "first_src": "espn_news",
-   "first_ts": "2026-11-03T19:07:41+00:00",
-   "seen": {
-    "espn_news": "2026-11-03T19:07:41+00:00"
-   }
-  },
   "ja morant|OUT|2026-11-07": {
    "first_src": "espn_injuries",
    "first_ts": "2026-11-08T02:18:00+00:00",
@@ -1012,21 +998,6 @@
    "first_ts": "2026-11-21T04:46:00+00:00",
    "seen": {
     "rotowire_rss": "2026-11-21T04:46:00+00:00"
-   }
-  },
-  "jakob poeltl|DOUBTFUL|2026-11-02": {
-   "first_src": "bsky_rotowire",
-   "first_ts": "2026-11-03T02:22:03+00:00",
-   "seen": {
-    "bsky_rotowire": "2026-11-03T02:22:03+00:00"
-   }
-  },
-  "jakob poeltl|OUT|2026-11-02": {
-   "first_src": "espn_injuries",
-   "first_ts": "2026-11-03T02:27:00+00:00",
-   "seen": {
-    "beat_tor_lewenberg": "2026-11-03T02:42:09+00:00",
-    "espn_injuries": "2026-11-03T02:27:00+00:00"
    }
   },
   "jalen duren|OUT|2026-11-08": {
@@ -1080,6 +1051,13 @@
    "seen": {
     "bsky_rotowire": "2026-11-07T04:02:14+00:00",
     "rotowire_rss": "2026-11-06T08:02:00+00:00"
+   }
+  },
+  "jamal shead|STARTING|2026-11-23": {
+   "first_src": "beat_tor_lewenberg",
+   "first_ts": "2026-11-24T01:07:22+00:00",
+   "seen": {
+    "beat_tor_lewenberg": "2026-11-24T01:07:22+00:00"
    }
   },
   "james harden|OUT|2026-11-14": {
@@ -1438,13 +1416,6 @@
     "espn_injuries": "2026-11-17T22:15:00+00:00"
    }
   },
-  "jaylon tyson|OUT|2026-11-02": {
-   "first_src": "espn_injuries",
-   "first_ts": "2026-11-03T05:29:00+00:00",
-   "seen": {
-    "espn_injuries": "2026-11-03T05:29:00+00:00"
-   }
-  },
   "jaylon tyson|OUT|2026-11-03": {
    "first_src": "espn_injuries",
    "first_ts": "2026-11-03T22:11:00+00:00",
@@ -1546,13 +1517,6 @@
    "first_ts": "2026-11-22T15:08:00+00:00",
    "seen": {
     "espn_injuries": "2026-11-22T15:08:00+00:00"
-   }
-  },
-  "joel embiid|MINUTES LIMIT|2026-11-02": {
-   "first_src": "beat_phi_aaronson",
-   "first_ts": "2026-11-03T03:50:53+00:00",
-   "seen": {
-    "beat_phi_aaronson": "2026-11-03T03:50:53+00:00"
    }
   },
   "joel embiid|OUT|2026-11-12": {
@@ -1728,13 +1692,6 @@
     "bsky_sportsethos": "2026-11-23T00:17:26+00:00"
    }
   },
-  "karlanthony towns|NEWS|2026-11-03": {
-   "first_src": "espn_news",
-   "first_ts": "2026-11-03T17:05:15+00:00",
-   "seen": {
-    "espn_news": "2026-11-03T17:05:15+00:00"
-   }
-  },
   "karlanthony towns|NEWS|2026-11-09": {
    "first_src": "rotowire_rss",
    "first_ts": "2026-11-10T06:58:00+00:00",
@@ -1833,13 +1790,6 @@
     "bsky_rotowire": "2026-11-17T22:25:16+00:00",
     "espn_injuries": "2026-11-17T22:25:00+00:00",
     "espn_news": "2026-11-17T23:23:13+00:00"
-   }
-  },
-  "kelly oubre|OUT|2026-11-02": {
-   "first_src": "espn_injuries",
-   "first_ts": "2026-11-03T00:33:00+00:00",
-   "seen": {
-    "espn_injuries": "2026-11-03T00:33:00+00:00"
    }
   },
   "kelly oubre|OUT|2026-11-04": {
@@ -2282,6 +2232,13 @@
     "espn_news": "2026-11-14T07:04:33+00:00"
    }
   },
+  "pascal siakam|NEWS|2026-11-23": {
+   "first_src": "espn_news",
+   "first_ts": "2026-11-24T03:20:43+00:00",
+   "seen": {
+    "espn_news": "2026-11-24T03:20:43+00:00"
+   }
+  },
   "pascal siakam|QUESTIONABLE|2026-11-21": {
    "first_src": "bsky_sportsethos",
    "first_ts": "2026-11-21T22:02:15+00:00",
@@ -2296,7 +2253,8 @@
    "first_src": "beat_ind_agness",
    "first_ts": "2026-11-23T18:26:51+00:00",
    "seen": {
-    "beat_ind_agness": "2026-11-23T18:26:51+00:00"
+    "beat_ind_agness": "2026-11-23T18:26:51+00:00",
+    "bsky_sportsethos": "2026-11-24T04:52:59+00:00"
    }
   },
   "pascal siakam|STARTING|2026-11-22": {
@@ -3036,6 +2994,14 @@
     "rotowire_rss": "2026-11-17T10:46:00+00:00"
    }
   },
+  "tyrese haliburton|NEWS|2026-11-24": {
+   "first_src": "rotowire_rss",
+   "first_ts": "2026-11-24T11:41:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-24T19:41:00+00:00",
+    "rotowire_rss": "2026-11-24T11:41:00+00:00"
+   }
+  },
   "tyrese haliburton|OUT|2026-11-10": {
    "first_src": "beat_ind_agness",
    "first_ts": "2026-11-10T18:35:00+00:00",
@@ -3245,6 +3211,13 @@
    "first_ts": "2026-11-22T15:07:00+00:00",
    "seen": {
     "espn_injuries": "2026-11-22T15:07:00+00:00"
+   }
+  },
+  "zion williamson|OUT|2026-11-23": {
+   "first_src": "bsky_sportsethos",
+   "first_ts": "2026-11-24T05:45:24+00:00",
+   "seen": {
+    "bsky_sportsethos": "2026-11-24T05:45:24+00:00"
    }
   }
  }
