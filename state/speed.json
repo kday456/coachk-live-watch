@@ -474,6 +474,13 @@
     "espn_injuries": "2026-11-24T23:36:00+00:00"
    }
   },
+  "cade cunningham|OUT|2026-11-25": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-25T19:00:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-25T19:00:00+00:00"
+   }
+  },
   "cade cunningham|STARTING|2026-11-04": {
    "first_src": "beat_phi_aaronson",
    "first_ts": "2026-11-05T00:52:44+00:00",
@@ -1560,6 +1567,18 @@
     "bsky_rotowire": "2026-11-24T22:09:28+00:00"
    }
   },
+  "joel embiid|OUT|2026-11-25": {
+   "first_src": "rotowire_rss",
+   "first_ts": "2026-11-25T12:08:00+00:00",
+   "seen": {
+    "beat_phi_aaronson": "2026-11-25T20:14:54+00:00",
+    "beat_phi_mizell": "2026-11-25T20:15:01+00:00",
+    "bsky_sportsethos": "2026-11-25T20:06:08+00:00",
+    "espn_injuries": "2026-11-25T20:07:00+00:00",
+    "espn_news": "2026-11-25T20:53:38+00:00",
+    "rotowire_rss": "2026-11-25T12:08:00+00:00"
+   }
+  },
   "joel embiid|STARTING|2026-11-08": {
    "first_src": "beat_phi_aaronson",
    "first_ts": "2026-11-08T20:41:30+00:00",
@@ -1587,14 +1606,6 @@
    "seen": {
     "bsky_rotowire": "2026-11-10T19:20:03+00:00",
     "bsky_sportsethos": "2026-11-10T19:20:08+00:00"
-   }
-  },
-  "josh hart|OUT|2026-11-04": {
-   "first_src": "espn_injuries",
-   "first_ts": "2026-11-04T18:08:00+00:00",
-   "seen": {
-    "bsky_sportsethos": "2026-11-04T18:08:13+00:00",
-    "espn_injuries": "2026-11-04T18:08:00+00:00"
    }
   },
   "josh hart|OUT|2026-11-05": {
@@ -1734,6 +1745,13 @@
     "bsky_rotowire": "2026-11-21T22:51:04+00:00",
     "bsky_sportsethos": "2026-11-21T22:24:21+00:00",
     "espn_injuries": "2026-11-21T22:51:00+00:00"
+   }
+  },
+  "karlanthony towns|PROBABLE|2026-11-25": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-25T17:54:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-25T17:54:00+00:00"
    }
   },
   "karlanthony towns|QUESTIONABLE|2026-11-11": {
@@ -2012,6 +2030,13 @@
    "first_ts": "2026-11-23T15:07:00+00:00",
    "seen": {
     "espn_injuries": "2026-11-23T15:07:00+00:00"
+   }
+  },
+  "miles mcbride|OUT|2026-11-25": {
+   "first_src": "espn_injuries",
+   "first_ts": "2026-11-25T17:57:00+00:00",
+   "seen": {
+    "espn_injuries": "2026-11-25T17:57:00+00:00"
    }
   },
   "myles turner|OUT|2026-11-11": {
