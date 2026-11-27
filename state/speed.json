@@ -870,18 +870,6 @@
     "espn_injuries": "2026-11-10T03:02:00+00:00"
    }
   },
-  "immanuel quickley|QUESTIONABLE|2026-11-06": {
-   "first_src": "rotowire_rss",
-   "first_ts": "2026-11-06T10:00:00+00:00",
-   "seen": {
-    "beat_tor_lewenberg": "2026-11-06T17:55:58+00:00",
-    "bsky_rotowire": "2026-11-06T17:59:51+00:00",
-    "bsky_sportsethos": "2026-11-06T17:59:54+00:00",
-    "espn_injuries": "2026-11-06T17:59:00+00:00",
-    "reddit_fantasybball": "2026-11-06T18:40:53+00:00",
-    "rotowire_rss": "2026-11-06T10:00:00+00:00"
-   }
-  },
   "immanuel quickley|QUESTIONABLE|2026-11-08": {
    "first_src": "espn_injuries",
    "first_ts": "2026-11-08T17:14:00+00:00",
@@ -1024,14 +1012,6 @@
    "first_ts": "2026-11-12T02:57:31+00:00",
    "seen": {
     "beat_den_benedetto": "2026-11-12T02:57:31+00:00"
-   }
-  },
-  "jamal shead|OUT|2026-11-06": {
-   "first_src": "rotowire_rss",
-   "first_ts": "2026-11-06T08:02:00+00:00",
-   "seen": {
-    "bsky_rotowire": "2026-11-07T04:02:14+00:00",
-    "rotowire_rss": "2026-11-06T08:02:00+00:00"
    }
   },
   "jamal shead|STARTING|2026-11-23": {
@@ -3018,6 +2998,13 @@
    "first_ts": "2026-11-17T18:52:57+00:00",
    "seen": {
     "espn_news": "2026-11-17T18:52:57+00:00"
+   }
+  },
+  "walker kessler|NEWS|2026-11-27": {
+   "first_src": "espn_news",
+   "first_ts": "2026-11-27T12:02:51+00:00",
+   "seen": {
+    "espn_news": "2026-11-27T12:02:51+00:00"
    }
   },
   "walker kessler|OUT|2026-11-16": {
